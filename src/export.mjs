@@ -4,7 +4,8 @@ import {gzipSync} from 'node:zlib';
 import {createHash} from 'node:crypto';
 export function exportRun(source,destination){
  if(!source||!destination)throw Error('Usage: export data/RUN_ID results/main');
- if(existsSync(join(dirname(source),'live.lock')))throw Error('Live campaign still running; export after it finishes');
+ const finished=existsSync(join(source,'events.jsonl')) && readFileSync(join(source,'events.jsonl'),'utf8').trim().split('\n').filter(Boolean).map(JSON.parse).some(e=>e.type==='run-finished');
+ if(existsSync(join(dirname(source),'live.lock'))&&!finished)throw Error('This run is still active; export after it finishes');
  if(existsSync(destination))throw Error('Destination exists; refusing to overwrite evidence');
  mkdirSync(destination,{recursive:true});
  const manifest=[];

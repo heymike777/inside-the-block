@@ -1,0 +1,37 @@
+{
+  "seed": 20261028,
+  "repeats": 2,
+  "maxWaitSeconds": 1200,
+  "capLamports": 49000000,
+  "phase": "main-v2",
+  "sendMode": "burst",
+  "targets": [
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "version": "4.3.2"
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "version": "4.3.2"
+    },
+    {
+      "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "version": "26.10.4"
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "version": "26.10.4"
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "version": "26.10.5"
+    },
+    {
+      "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+      "version": "26.10.5"
+    }
+  ],
+  "resumeFrom": [
+    "data/1378aaaf-b2b5-48bf-bd7c-54ae8c8c8ed1"
+  ]
+}

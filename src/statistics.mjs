@@ -25,9 +25,9 @@ export function windowStatistics(rows, iterations=2000, seed=20261028) {
     }
     const mean=a=>a.reduce((s,x)=>s+x,0)/a.length;
     const samples=[];
-    if(scores.length>=2) for(let k=0;k<iterations;k++) samples.push(mean(scores.map(()=>scores[Math.floor(random()*scores.length)])));
+    if(scores.length>=5) for(let k=0;k<iterations;k++) samples.push(mean(scores.map(()=>scores[Math.floor(random()*scores.length)])));
     samples.sort((a,b)=>a-b);
     results.push({stratum:JSON.parse(stratum),predictor,informativeWindows:scores.length,meanWindowConcordance:scores.length?mean(scores):null,bootstrap95:samples.length?[samples[Math.floor(samples.length*.025)],samples[Math.floor(samples.length*.975)]]:null});
   }
-  return {method:'Equal-weight window concordance, percentile cluster bootstrap within validator/version/lock/treatment. Exploratory marginal intervals; no multiple-testing correction or causal interpretation. Partial landing may bias results.',seed,iterations,results};
+  return {minimumWindowsForInterval:5,method:'Equal-weight window concordance, percentile cluster bootstrap within validator/version/lock/treatment. Exploratory marginal intervals; no multiple-testing correction or causal interpretation. Partial landing may bias results.',seed,iterations,results};
 }

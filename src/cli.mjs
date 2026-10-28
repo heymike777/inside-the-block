@@ -12,11 +12,16 @@ try {
     save('plan.json', { seed: 20261028, batches, transactionsPerValidator: batches.length * 4, minimumValidators: 6, minimumVersionStrings: 3, hash: digest(batches) });
     if (command === 'demo') save('demo-analysis.json', analyze([{ synthetic: true, price: 10, blockIndex: 0 }]));
     console.log(`Saved deterministic ${batches.length}-batch plan. No transactions sent.`);
+  } else if (command === 'narrative') {
+    const {narrative} = await import('./narrative.mjs');
+    narrative(process.argv.slice(3),`${out}/REPORT.md`);
   } else if (command === 'export') {
     const {exportRun} = await import('./export.mjs');
     exportRun(input,process.argv[4]);
   } else if (command === 'reproduce') {
     if (!input) throw Error('Usage: reproduce results/main');
+    const {integrity} = await import('./integrity.mjs');
+    integrity(input);
     const {verify} = await import('./verify.mjs');
     const {context} = await import('./context.mjs');
     const {report} = await import('./report.mjs');
