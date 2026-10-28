@@ -4,7 +4,7 @@ services:
     environment:
       RPC_URL: ${RPC_URL:-https://api.mainnet-beta.solana.com}
       OUTPUT_DIR: /app/data
-      KEYPAIR_PATHS: ${KEYPAIR_PATHS:-}
+      KEYPAIR_PATHS: ${DOCKER_KEYPAIR_PATHS:-/run/secrets/payer-0.json,/run/secrets/payer-1.json,/run/secrets/payer-2.json,/run/secrets/payer-3.json}
     volumes:
       - ./data:/app/data
       - ./results:/app/results

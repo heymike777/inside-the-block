@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync, appendFileSync, readFileSync } from 'node:fs';
+import { mkdirSync, writeFileSync, appendFileSync, readFileSync, readdirSync } from 'node:fs';
 import { plan, analyze, MAINNET_GENESIS, digest } from './core.mjs';
 import { rpcClient } from './rpc.mjs';
 const [command = 'plan', input] = process.argv.slice(2);
@@ -12,6 +12,18 @@ try {
     save('plan.json', { seed: 20261028, batches, transactionsPerValidator: batches.length * 4, minimumValidators: 6, minimumVersionStrings: 3, hash: digest(batches) });
     if (command === 'demo') save('demo-analysis.json', analyze([{ synthetic: true, price: 10, blockIndex: 0 }]));
     console.log(`Saved deterministic ${batches.length}-batch plan. No transactions sent.`);
+  } else if (command === 'reproduce-all') {
+    if (!input) throw Error('Usage: reproduce-all results');
+    const {integrity} = await import('./integrity.mjs');
+    const {verify} = await import('./verify.mjs');
+    const {context} = await import('./context.mjs');
+    const {report} = await import('./report.mjs');
+    const {narrative} = await import('./narrative.mjs');
+    const directories = readdirSync(input,{withFileTypes:true}).filter(d=>d.isDirectory()&&d.name.startsWith('main-')).map(d=>`${input}/${d.name}`).sort();
+    if (!directories.length) throw Error('No main datasets found');
+    for (const dir of directories) {integrity(dir);verify(dir);context(dir);}
+    const files=directories.map(d=>`${d}/observations.jsonl`);
+    report(files,out);narrative(files,`${out}/REPORT.md`);
   } else if (command === 'narrative') {
     const {narrative} = await import('./narrative.mjs');
     narrative(process.argv.slice(3),`${out}/REPORT.md`);

@@ -20,7 +20,7 @@ One-command default with Docker Compose:
 docker compose run --rm --build experiment
 ```
 
-This writes the deterministic preregistered design to `data/plan.json`. Docker must be installed. Local verification on 2026-10-28 used Node; Docker was unavailable, so container execution has not been verified.
+This writes the deterministic preregistered design to `data/plan.json`. Docker must be installed. The local machine has no Docker CLI; GitHub CI successfully verified container build, default dry-run and offline evidence replay on 2026-10-28.
 
 Put `RPC_URL` in `.env` (see `.env.example`). Never commit it. Discovery is read-only:
 
