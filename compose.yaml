@@ -1,0 +1,12 @@
+services:
+  experiment:
+    build: .
+    environment:
+      RPC_URL: ${RPC_URL:-https://api.mainnet-beta.solana.com}
+      OUTPUT_DIR: /app/data
+      KEYPAIR_PATHS: ${KEYPAIR_PATHS:-}
+    volumes:
+      - ./data:/app/data
+      - ./results:/app/results
+      - ./secrets:/run/secrets:ro
+    command: ["plan"]
