@@ -1,0 +1,2204 @@
+{
+  "minimumWindowsForInterval": 5,
+  "method": "Equal-weight window concordance, percentile cluster bootstrap within validator/version/lock/treatment. Exploratory marginal intervals; no multiple-testing correction or causal interpretation. Partial landing may bias results.",
+  "seed": 20261028,
+  "iterations": 2000,
+  "results": [
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8194444444444445,
+      "bootstrap95": [
+        0.6944444444444445,
+        0.9305555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8194444444444445,
+      "bootstrap95": [
+        0.7083333333333334,
+        0.9305555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5833333333333333,
+      "bootstrap95": [
+        0.4861111111111111,
+        0.6805555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.19444444444444442,
+      "bootstrap95": [
+        0.05555555555555555,
+        0.361111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8055555555555555,
+      "bootstrap95": [
+        0.6527777777777777,
+        0.9444444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6944444444444445,
+      "bootstrap95": [
+        0.5277777777777778,
+        0.8333333333333335
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8333333333333331,
+      "bootstrap95": [
+        0.7361111111111112,
+        0.9305555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8333333333333331,
+      "bootstrap95": [
+        0.7361111111111112,
+        0.9166666666666669
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5972222222222222,
+      "bootstrap95": [
+        0.486111111111111,
+        0.7083333333333335
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.3333333333333333,
+      "bootstrap95": [
+        0.2083333333333333,
+        0.47222222222222227
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6666666666666666,
+      "bootstrap95": [
+        0.5277777777777778,
+        0.7916666666666666
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6944444444444445,
+      "bootstrap95": [
+        0.5694444444444445,
+        0.8055555555555558
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5416666666666666,
+      "bootstrap95": [
+        0.37499999999999994,
+        0.7222222222222223
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5416666666666666,
+      "bootstrap95": [
+        0.37499999999999994,
+        0.7083333333333334
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.625,
+      "bootstrap95": [
+        0.4861111111111111,
+        0.7638888888888888
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.4305555555555556,
+      "bootstrap95": [
+        0.3055555555555555,
+        0.5694444444444444
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5694444444444445,
+      "bootstrap95": [
+        0.4305555555555556,
+        0.6944444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.45833333333333326,
+      "bootstrap95": [
+        0.3333333333333333,
+        0.5694444444444443
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8194444444444443,
+      "bootstrap95": [
+        0.6805555555555557,
+        0.9444444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8194444444444443,
+      "bootstrap95": [
+        0.6805555555555555,
+        0.9444444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.611111111111111,
+      "bootstrap95": [
+        0.4861111111111112,
+        0.7083333333333334
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.47222222222222215,
+      "bootstrap95": [
+        0.3055555555555555,
+        0.6527777777777777
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.47222222222222215,
+      "bootstrap95": [
+        0.29166666666666674,
+        0.638888888888889
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5555555555555555,
+      "bootstrap95": [
+        0.40277777777777773,
+        0.7222222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.49999999999999994,
+      "bootstrap95": [
+        0.40277777777777773,
+        0.5972222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5000000000000001,
+      "bootstrap95": [
+        0.40277777777777773,
+        0.5972222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "JitoLabs"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.611111111111111,
+      "bootstrap95": [
+        0.4583333333333333,
+        0.75
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7777777777777777,
+      "bootstrap95": [
+        0.5972222222222222,
+        0.9166666666666666
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7777777777777777,
+      "bootstrap95": [
+        0.5972222222222222,
+        0.9305555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7222222222222223,
+      "bootstrap95": [
+        0.5833333333333334,
+        0.861111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "price",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.4545454545454545,
+      "bootstrap95": [
+        0.25757575757575757,
+        0.6515151515151515
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.4545454545454545,
+      "bootstrap95": [
+        0.25757575757575757,
+        0.6515151515151515
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "price",
+        "JitoLabs"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.6363636363636364,
+      "bootstrap95": [
+        0.5,
+        0.7727272727272727
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7916666666666666,
+      "bootstrap95": [
+        0.6666666666666666,
+        0.9166666666666665
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7916666666666666,
+      "bootstrap95": [
+        0.6666666666666666,
+        0.9027777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.638888888888889,
+      "bootstrap95": [
+        0.5138888888888887,
+        0.7777777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.20833333333333334,
+      "bootstrap95": [
+        0.06944444444444443,
+        0.3611111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7916666666666666,
+      "bootstrap95": [
+        0.6388888888888888,
+        0.9305555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6805555555555555,
+      "bootstrap95": [
+        0.5416666666666667,
+        0.8055555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.20833333333333334,
+      "bootstrap95": [
+        0.08333333333333333,
+        0.34722222222222215
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7916666666666665,
+      "bootstrap95": [
+        0.6666666666666666,
+        0.902777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "limit",
+        "HarmonicAgave"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6250000000000001,
+      "bootstrap95": [
+        0.4583333333333333,
+        0.763888888888889
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "price",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.6515151515151515,
+      "bootstrap95": [
+        0.5151515151515151,
+        0.7727272727272729
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "units",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.6515151515151515,
+      "bootstrap95": [
+        0.5000000000000001,
+        0.7878787878787878
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "independent-payers",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.606060606060606,
+      "bootstrap95": [
+        0.4545454545454545,
+        0.7878787878787878
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7083333333333334,
+      "bootstrap95": [
+        0.5416666666666666,
+        0.8611111111111112
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7083333333333334,
+      "bootstrap95": [
+        0.5416666666666666,
+        0.875
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.638888888888889,
+      "bootstrap95": [
+        0.4861111111111111,
+        0.7777777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5277777777777778,
+      "bootstrap95": [
+        0.37500000000000006,
+        0.6944444444444443
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5277777777777778,
+      "bootstrap95": [
+        0.375,
+        0.6805555555555557
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6388888888888888,
+      "bootstrap95": [
+        0.5277777777777778,
+        0.75
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.875,
+      "bootstrap95": [
+        0.736111111111111,
+        1
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.875,
+      "bootstrap95": [
+        0.736111111111111,
+        1
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5555555555555555,
+      "bootstrap95": [
+        0.375,
+        0.736111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8194444444444443,
+      "bootstrap95": [
+        0.736111111111111,
+        0.902777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8194444444444443,
+      "bootstrap95": [
+        0.7222222222222223,
+        0.9027777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5555555555555556,
+      "bootstrap95": [
+        0.3888888888888889,
+        0.7083333333333334
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8333333333333334,
+      "bootstrap95": [
+        0.6527777777777779,
+        0.9722222222222223
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8333333333333334,
+      "bootstrap95": [
+        0.6666666666666666,
+        0.9722222222222223
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "HarmonicAgave"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5694444444444444,
+      "bootstrap95": [
+        0.4027777777777779,
+        0.736111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.736111111111111,
+      "bootstrap95": [
+        0.5972222222222222,
+        0.875
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.736111111111111,
+      "bootstrap95": [
+        0.611111111111111,
+        0.8749999999999999
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5694444444444445,
+      "bootstrap95": [
+        0.40277777777777773,
+        0.7222222222222223
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "price",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.5606060606060606,
+      "bootstrap95": [
+        0.4090909090909091,
+        0.7272727272727273
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "units",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.5606060606060606,
+      "bootstrap95": [
+        0.4090909090909091,
+        0.7272727272727273
+      ]
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "shared-payer",
+        "equal-fee",
+        "JitoLabs"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.7272727272727273,
+      "bootstrap95": [
+        0.6060606060606061,
+        0.8484848484848484
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.4583333333333333,
+      "bootstrap95": [
+        0.3194444444444445,
+        0.611111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.4583333333333333,
+      "bootstrap95": [
+        0.3194444444444445,
+        0.611111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "independent-payers",
+        "price",
+        "HarmonicAgave"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.625,
+      "bootstrap95": [
+        0.5555555555555555,
+        0.6944444444444443
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.15277777777777776,
+      "bootstrap95": [
+        0.041666666666666664,
+        0.27777777777777773
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8472222222222222,
+      "bootstrap95": [
+        0.7222222222222223,
+        0.9583333333333334
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7916666666666666,
+      "bootstrap95": [
+        0.6249999999999999,
+        0.9305555555555557
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5833333333333334,
+      "bootstrap95": [
+        0.47222222222222215,
+        0.7083333333333334
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5833333333333334,
+      "bootstrap95": [
+        0.4583333333333334,
+        0.7222222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "FireBAM"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7083333333333334,
+      "bootstrap95": [
+        0.611111111111111,
+        0.8055555555555555
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.09722222222222221,
+      "bootstrap95": [
+        0.013888888888888888,
+        0.19444444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.9027777777777778,
+      "bootstrap95": [
+        0.8055555555555555,
+        0.986111111111111
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7499999999999999,
+      "bootstrap95": [
+        0.5833333333333334,
+        0.9027777777777777
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.9027777777777777,
+      "bootstrap95": [
+        0.8055555555555555,
+        1
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.9027777777777777,
+      "bootstrap95": [
+        0.8055555555555555,
+        1
+      ]
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5138888888888888,
+      "bootstrap95": [
+        0.3333333333333333,
+        0.6944444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.37878787878787884,
+      "bootstrap95": [
+        0.22727272727272727,
+        0.5303030303030303
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.6212121212121212,
+      "bootstrap95": [
+        0.4696969696969697,
+        0.7727272727272727
+      ]
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "independent-payers",
+        "limit",
+        "HarmonicFiredancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 11,
+      "meanWindowConcordance": 0.696969696969697,
+      "bootstrap95": [
+        0.5303030303030304,
+        0.8484848484848484
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5972222222222221,
+      "bootstrap95": [
+        0.4583333333333333,
+        0.7361111111111112
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.40277777777777773,
+      "bootstrap95": [
+        0.2638888888888889,
+        0.5277777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6527777777777778,
+      "bootstrap95": [
+        0.513888888888889,
+        0.7777777777777778
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8472222222222222,
+      "bootstrap95": [
+        0.7083333333333334,
+        0.9722222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.8472222222222222,
+      "bootstrap95": [
+        0.7083333333333334,
+        0.9722222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "FireBAM"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.611111111111111,
+      "bootstrap95": [
+        0.4861111111111111,
+        0.7222222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.47222222222222215,
+      "bootstrap95": [
+        0.27777777777777773,
+        0.6944444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5277777777777778,
+      "bootstrap95": [
+        0.3055555555555555,
+        0.75
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "limit",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5555555555555556,
+      "bootstrap95": [
+        0.375,
+        0.7083333333333335
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "price",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.2916666666666667,
+      "bootstrap95": [
+        0.125,
+        0.47222222222222215
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7083333333333335,
+      "bootstrap95": [
+        0.5138888888888888,
+        0.875
+      ]
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "independent-payers",
+        "limit",
+        "FireBAM"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6805555555555557,
+      "bootstrap95": [
+        0.5416666666666666,
+        0.8194444444444443
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6527777777777778,
+      "bootstrap95": [
+        0.5277777777777778,
+        0.7916666666666666
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6527777777777778,
+      "bootstrap95": [
+        0.5277777777777778,
+        0.7916666666666665
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.638888888888889,
+      "bootstrap95": [
+        0.486111111111111,
+        0.7916666666666666
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5,
+      "bootstrap95": [
+        0.3194444444444445,
+        0.7083333333333334
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5,
+      "bootstrap95": [
+        0.3333333333333333,
+        0.6944444444444445
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "equal-fee",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.6527777777777778,
+      "bootstrap95": [
+        0.49999999999999994,
+        0.7916666666666666
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5,
+      "bootstrap95": [
+        0.3333333333333333,
+        0.6527777777777779
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5,
+      "bootstrap95": [
+        0.3194444444444445,
+        0.6666666666666666
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "shared-payer",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5277777777777778,
+      "bootstrap95": [
+        0.3194444444444445,
+        0.7222222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "price",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5833333333333334,
+      "bootstrap95": [
+        0.44444444444444436,
+        0.7083333333333334
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "priorityLamports",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.5833333333333334,
+      "bootstrap95": [
+        0.4444444444444444,
+        0.7222222222222222
+      ]
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "units",
+      "informativeWindows": 0,
+      "meanWindowConcordance": null,
+      "bootstrap95": null
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "independent-payers",
+        "price",
+        "Firedancer"
+      ],
+      "predictor": "sendOrder",
+      "informativeWindows": 12,
+      "meanWindowConcordance": 0.7222222222222222,
+      "bootstrap95": [
+        0.638888888888889,
+        0.8194444444444445
+      ]
+    }
+  ]
+}

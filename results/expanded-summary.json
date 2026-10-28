@@ -1,0 +1,121 @@
+{
+  "generatedAt": "2026-10-28T22:45:44.395Z",
+  "phase": "expanded-v3",
+  "configuredRepeats": 12,
+  "plannedProbes": 1728,
+  "attempts": 1728,
+  "finalized": 1728,
+  "successfulOnTarget": 1708,
+  "offTarget": 20,
+  "failedOnChain": 0,
+  "unresolved": 0,
+  "byValidator": [
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "attempted": 288,
+      "batches": 72,
+      "successfulOnTarget": 288,
+      "offTarget": 0,
+      "clientIds": [
+        "HarmonicAgave"
+      ],
+      "versions": [
+        "4.3.2"
+      ]
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "attempted": 288,
+      "batches": 72,
+      "successfulOnTarget": 286,
+      "offTarget": 2,
+      "clientIds": [
+        "FireBAM"
+      ],
+      "versions": [
+        "26.10.5"
+      ]
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "attempted": 288,
+      "batches": 72,
+      "successfulOnTarget": 286,
+      "offTarget": 2,
+      "clientIds": [
+        "Firedancer"
+      ],
+      "versions": [
+        "26.10.4"
+      ]
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "attempted": 288,
+      "batches": 72,
+      "successfulOnTarget": 276,
+      "offTarget": 12,
+      "clientIds": [
+        "JitoLabs"
+      ],
+      "versions": [
+        "4.3.2"
+      ]
+    },
+    {
+      "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "attempted": 288,
+      "batches": 72,
+      "successfulOnTarget": 284,
+      "offTarget": 4,
+      "clientIds": [
+        "HarmonicFiredancer"
+      ],
+      "versions": [
+        "26.10.4"
+      ]
+    },
+    {
+      "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+      "attempted": 288,
+      "batches": 72,
+      "successfulOnTarget": 288,
+      "offTarget": 0,
+      "clientIds": [
+        "Firedancer"
+      ],
+      "versions": [
+        "26.10.5"
+      ]
+    }
+  ],
+  "advertisedClientIds": [
+    "HarmonicAgave",
+    "FireBAM",
+    "Firedancer",
+    "JitoLabs",
+    "HarmonicFiredancer"
+  ],
+  "firstBlockTimeUTC": "2026-10-28T18:19:51.000Z",
+  "lastBlockTimeUTC": "2026-10-28T22:31:28.000Z",
+  "coResidentNominalWindows": 0,
+  "completeSameBlockBatches": 294,
+  "totalBatches": 432,
+  "maxSnapshotQueryAgeMs": 1332,
+  "blockContext": {
+    "blocks": 567,
+    "medianTransactions": 443,
+    "medianReportedComputeUnits": 14918973,
+    "note": "Descriptive observed-block context, not queue occupancy or cost-limit utilization"
+  },
+  "accounting": {
+    "expandedFeesLamports": 9233280,
+    "baselineAndPilotFeesLamports": 1583320,
+    "totalFinalizedProbeFeesLamports": 10816600,
+    "totalReservedLamports": 10816600,
+    "enforcedCapLamports": 49000000,
+    "bountyBudgetLamports": 50000000,
+    "unobservedReservationSignatures": 0,
+    "scope": "Own probe transaction fees only. External wallet funding and withdrawal fees excluded."
+  }
+}

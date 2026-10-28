@@ -1,0 +1,691 @@
+{
+  "coResidentNominalWindows": 0,
+  "batches": 432,
+  "completeSameBlockBatches": 294,
+  "strata": [
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "HarmonicAgave",
+        "shared-payer",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 9,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "FireBAM",
+        "shared-payer",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "Firedancer",
+        "independent-payers",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 11,
+      "straddlingBatches": 1,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "HarmonicAgave",
+        "independent-payers",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 9,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "HarmonicAgave",
+        "independent-payers",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "JitoLabs",
+        "independent-payers",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 9,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "HarmonicFiredancer",
+        "shared-payer",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 11,
+      "straddlingBatches": 1,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "JitoLabs",
+        "independent-payers",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 10,
+      "straddlingBatches": 2,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "JitoLabs",
+        "shared-payer",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "FireBAM",
+        "independent-payers",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 46,
+      "offTarget": 2,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 6,
+      "straddlingBatches": 5,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "JitoLabs",
+        "shared-payer",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 45,
+      "offTarget": 3,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 10,
+      "straddlingBatches": 1,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "HarmonicFiredancer",
+        "independent-payers",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "Firedancer",
+        "independent-payers",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 7,
+      "straddlingBatches": 5,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "HarmonicAgave",
+        "shared-payer",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 10,
+      "straddlingBatches": 2,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "JitoLabs",
+        "independent-payers",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 43,
+      "offTarget": 5,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 2,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "FireBAM",
+        "shared-payer",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 9,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "HarmonicFiredancer",
+        "independent-payers",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "Firedancer",
+        "independent-payers",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "HarmonicFiredancer",
+        "shared-payer",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 7,
+      "straddlingBatches": 5,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "HarmonicAgave",
+        "shared-payer",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 9,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "Firedancer",
+        "shared-payer",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 46,
+      "offTarget": 2,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        "JitoLabs",
+        "shared-payer",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 44,
+      "offTarget": 4,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 7,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        "HarmonicAgave",
+        "independent-payers",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "HarmonicFiredancer",
+        "shared-payer",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 11,
+      "straddlingBatches": 1,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "FireBAM",
+        "independent-payers",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 9,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "Firedancer",
+        "shared-payer",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 9,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        "Firedancer",
+        "shared-payer",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 7,
+      "straddlingBatches": 5,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        "HarmonicFiredancer",
+        "independent-payers",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 44,
+      "offTarget": 4,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 3,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "Firedancer",
+        "independent-payers",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 7,
+      "straddlingBatches": 5,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "FireBAM",
+        "shared-payer",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "Firedancer",
+        "shared-payer",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 6,
+      "straddlingBatches": 6,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        "FireBAM",
+        "independent-payers",
+        "limit"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 7,
+      "straddlingBatches": 5,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "Firedancer",
+        "shared-payer",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 4,
+      "straddlingBatches": 8,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "Firedancer",
+        "independent-payers",
+        "equal-fee"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 6,
+      "straddlingBatches": 6,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "Firedancer",
+        "shared-payer",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        "Firedancer",
+        "independent-payers",
+        "price"
+      ],
+      "attempts": 48,
+      "batches": 12,
+      "finalized": 48,
+      "successfulOnTarget": 48,
+      "offTarget": 0,
+      "failed": 0,
+      "unresolved": 0,
+      "completeSameBlockBatches": 8,
+      "straddlingBatches": 4,
+      "unattributedOnTarget": 0
+    }
+  ]
+}

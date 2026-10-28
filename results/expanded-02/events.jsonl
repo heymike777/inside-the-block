@@ -1,0 +1,11 @@
+{"at":"2026-10-28T22:26:00.374Z","type":"rpc-accepted","signature":"3yT6HtcALXaF2ru4Qc3MsKVHNyYVDfKc8UCRkKyM1vN1Uw1ekvJoKR34ELQS8KBCfsNBgA2rTxeeyf2vTVPXiRRj","ackMs":18086.252667}
+{"at":"2026-10-28T22:26:00.430Z","type":"rpc-accepted","signature":"rGbb86P8GyEpWxR78vNYQqecUJRWuCcBKctUbwvU55zr5U5mSptgMQuSTbDHcYmHojnVYD4RENyCFF2NuF5N8Kx","ackMs":18142.405667}
+{"at":"2026-10-28T22:26:00.434Z","type":"rpc-accepted","signature":"Bu542vQuT8rmZ5xui9uQZxXwo7Nw6wo4yE2pNaVFUjxRecyW27RXdCqfB9PTyNKqHnD1f9woNygSaJzq9ESooCw","ackMs":18146.823792}
+{"at":"2026-10-28T22:26:00.447Z","type":"rpc-accepted","signature":"4wD4bYdMzhKuNmwXBQLKJ33XuaTQbvxQxpY5TDSSKSbRZ8HMcSdDovb1QCDzRK63rqQ5KLpfrEfHGLKV2WYQmjS2","ackMs":18159.241375}
+{"at":"2026-10-28T22:26:00.447Z","type":"batch-finished","batch":"shared-payer-price-11","slot":462644464,"endSlot":462644467,"identity":"DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf","version":"26.10.5","reservedLamports":10795100}
+{"at":"2026-10-28T22:31:27.785Z","type":"rpc-accepted","signature":"57oGJWdWBaBA87xYcTJZd5SS7F79TLg1hanJmv3bZaTBbKXVDPva22pRgNYHPkVrqBgE89jEMBoH7wMH1sJ9k79","ackMs":345498.173375}
+{"at":"2026-10-28T22:31:27.848Z","type":"rpc-accepted","signature":"4fudqVKaxaC4CAFZbpWE9FFbKVu43Bb4XEZ37EwF9xkNGjjuPmnjzUT2LLcKksBjXFATKoJRH46fAj9shSdM1rd1","ackMs":345561.967375}
+{"at":"2026-10-28T22:31:27.849Z","type":"rpc-accepted","signature":"5oHkDYBBVw1w1ANEpeGmVTKvGtEQ6VKFgdc63L78opdiUVLPX2hnYfy6s3GcjJtFhy8sT955uNcR5xaNCBDe4Gxu","ackMs":345562.676792}
+{"at":"2026-10-28T22:31:27.853Z","type":"rpc-accepted","signature":"2Gi36Xhik1Qb5PTXZPZ4yzRZFwiwfd9L2sqtRCC3wmySCmh8fNQqzHdBTkJioTNLVEErT21e9zvVpK6RHmQi8k5L","ackMs":345566.80075}
+{"at":"2026-10-28T22:31:27.853Z","type":"batch-finished","batch":"independent-payers-limit-11","slot":462645996,"endSlot":462645999,"identity":"DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf","version":"26.10.5","reservedLamports":10816600}
+{"at":"2026-10-28T22:31:27.854Z","type":"run-finished","remainingBatches":{"Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk":0,"HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU":0,"JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b":0,"9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY":0,"9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP":0,"DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf":0},"reservedLamports":10816600}

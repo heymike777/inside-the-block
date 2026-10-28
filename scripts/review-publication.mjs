@@ -7,7 +7,7 @@ const files=execFileSync('git',['ls-files','-z'],{encoding:'utf8'}).split('\0').
 const forbidden=files.filter(f=>f==='.env'||f.startsWith('secrets/')||f.startsWith('node_modules/')||f.endsWith('.p8'));
 if(forbidden.length)throw Error(`Forbidden tracked paths: ${forbidden.join(', ')}`);
 const needles=[];
-if(existsSync('.env')){const env=parseEnv(readFileSync('.env','utf8'));if(env.RPC_URL && env.RPC_URL!=='https://api.mainnet-beta.solana.com')needles.push(env.RPC_URL);}
+if(existsSync('.env')){const env=parseEnv(readFileSync('.env','utf8'));if(env.RPC_URL && env.RPC_URL!=='https://api.mainnet-beta.solana.com'){needles.push(env.RPC_URL);const url=new URL(env.RPC_URL);for(const [key,value] of url.searchParams)if(/key|token|auth|secret/i.test(key)&&value.length>=8)needles.push(value);if(url.password)needles.push(url.password);for(const segment of url.pathname.split('/'))if(segment.length>=20)needles.push(segment);}}
 if(existsSync('secrets'))for(const f of readdirSync('secrets'))if(f.endsWith('.json'))needles.push(readFileSync(`secrets/${f}`,'utf8').trim());
 for(const file of files){
  if(!existsSync(file))continue;

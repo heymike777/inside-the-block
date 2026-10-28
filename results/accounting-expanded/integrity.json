@@ -1,0 +1,13 @@
+{
+  "sourceRun": "cumulative-expanded-accounting",
+  "exportedAt": "2026-10-28T22:33:21.329Z",
+  "files": [
+    {
+      "file": "budget.jsonl.gz",
+      "originalBytes": 309278,
+      "storedBytes": 147353,
+      "sha256Original": "195ef21e25dcc9b2cf87cae800f46d7f45b4caeba65d20ccb0067a5ddc0c3a39",
+      "sha256Stored": "53f75b97560ced14164952cc54da929b871274fefb2a8426056704148a530951"
+    }
+  ]
+}

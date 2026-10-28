@@ -1,34 +1,48 @@
 {
   "sourceRun": "derived-client-attribution",
-  "exportedAt": "2026-10-28T18:33:40.020Z",
+  "exportedAt": "2026-10-28T22:45:41.524Z",
   "files": [
     {
       "file": "coverage.json",
-      "originalBytes": 653,
-      "storedBytes": 653,
-      "sha256Original": "6da34970acc87bed99c9d68bc7626db8c2f06dde98f050f1b682276b4adc012a",
-      "sha256Stored": "6da34970acc87bed99c9d68bc7626db8c2f06dde98f050f1b682276b4adc012a"
+      "originalBytes": 1112,
+      "storedBytes": 1112,
+      "sha256Original": "49b6588ded2008ceaff07cf00adec4b9f4aa081dad0ae95b99c5fd1b3a6c036a",
+      "sha256Stored": "49b6588ded2008ceaff07cf00adec4b9f4aa081dad0ae95b99c5fd1b3a6c036a"
+    },
+    {
+      "file": "expanded-01.jsonl",
+      "originalBytes": 2083422,
+      "storedBytes": 2083422,
+      "sha256Original": "a09f6d0914aa8127070b185fdda86aabfe888579ff1f717064b10c84cf595edf",
+      "sha256Stored": "a09f6d0914aa8127070b185fdda86aabfe888579ff1f717064b10c84cf595edf"
+    },
+    {
+      "file": "expanded-02.jsonl",
+      "originalBytes": 9920,
+      "storedBytes": 9920,
+      "sha256Original": "2d9113de7222649eb29724f8804783206daf0d9b7e649a1cfc9beb4eef0c3441",
+      "sha256Stored": "2d9113de7222649eb29724f8804783206daf0d9b7e649a1cfc9beb4eef0c3441"
     },
     {
       "file": "main-01.jsonl",
-      "originalBytes": 254605,
-      "storedBytes": 254605,
-      "sha256Original": "ec01b097037b9aeb5b4e5615f1d0be05318cd052f4b819cdca1f026f6b48a824",
-      "sha256Stored": "ec01b097037b9aeb5b4e5615f1d0be05318cd052f4b819cdca1f026f6b48a824"
+      "originalBytes": 260029,
+      "storedBytes": 260029,
+      "sha256Original": "ee32819bab8aacca79818090003a1ba3c02e5399865ef2d5a7628ab02b3ed3e2",
+      "sha256Stored": "ee32819bab8aacca79818090003a1ba3c02e5399865ef2d5a7628ab02b3ed3e2"
     },
     {
       "file": "main-02.jsonl",
-      "originalBytes": 56727,
-      "storedBytes": 56727,
-      "sha256Original": "3ce6854c1f875f9cfdcaef3e786603422b20b65c85f52274b6b4e08ce46872ba",
-      "sha256Stored": "3ce6854c1f875f9cfdcaef3e786603422b20b65c85f52274b6b4e08ce46872ba"
+      "originalBytes": 57975,
+      "storedBytes": 57975,
+      "sha256Original": "6389f451efaab31404ebfda5fb55389e49fcb22b6b8920043e21a8025d6be8c6",
+      "sha256Stored": "6389f451efaab31404ebfda5fb55389e49fcb22b6b8920043e21a8025d6be8c6"
     },
     {
       "file": "main-03.jsonl",
-      "originalBytes": 28434,
-      "storedBytes": 28434,
-      "sha256Original": "a5dbd86f8e0e20f8366a9555aa495d3701d313906dce9a077ee3a9d1087f4a3a",
-      "sha256Stored": "a5dbd86f8e0e20f8366a9555aa495d3701d313906dce9a077ee3a9d1087f4a3a"
+      "originalBytes": 29058,
+      "storedBytes": 29058,
+      "sha256Original": "f0806a2e5cd33facc80159360314be42dad636ddf2a22ef1304ad0f4afe9f888",
+      "sha256Stored": "f0806a2e5cd33facc80159360314be42dad636ddf2a22ef1304ad0f4afe9f888"
     },
     {
       "file": "validator-clients.json",

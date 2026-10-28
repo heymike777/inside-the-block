@@ -1,0 +1,7285 @@
+{
+  "note": "Descriptive within-block pairs; correlated pairs are not independent samples. No causal scheduler claim.",
+  "groups": [
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575398,
+        "shared-payer-price-0",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462575434,
+        "shared-payer-limit-0",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462575441,
+        "independent-payers-price-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575446,
+        "independent-payers-limit-0",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575477,
+        "independent-payers-equal-fee-0",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575478,
+        "independent-payers-equal-fee-0",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575486,
+        "independent-payers-limit-0",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462575498,
+        "shared-payer-equal-fee-0",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575502,
+        "independent-payers-price-0",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575503,
+        "independent-payers-price-0",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575517,
+        "shared-payer-limit-0",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462575542,
+        "independent-payers-equal-fee-0",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575547,
+        "shared-payer-price-0",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462575566,
+        "independent-payers-equal-fee-0",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462575574,
+        "independent-payers-limit-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575594,
+        "shared-payer-limit-0",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575599,
+        "independent-payers-equal-fee-0",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462575617,
+        "shared-payer-price-0",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462575638,
+        "independent-payers-price-0",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462575654,
+        "independent-payers-equal-fee-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462575673,
+        "shared-payer-price-0",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462575674,
+        "shared-payer-price-0",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575679,
+        "shared-payer-equal-fee-0",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462575683,
+        "shared-payer-price-0",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575722,
+        "shared-payer-equal-fee-0",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575750,
+        "independent-payers-price-0",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462575755,
+        "shared-payer-limit-0",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575769,
+        "shared-payer-equal-fee-1",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575770,
+        "shared-payer-equal-fee-1",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575813,
+        "shared-payer-limit-1",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575814,
+        "shared-payer-limit-1",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462575850,
+        "independent-payers-price-0",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462575910,
+        "independent-payers-limit-1",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462575929,
+        "shared-payer-limit-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462575942,
+        "independent-payers-equal-fee-1",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462575946,
+        "shared-payer-equal-fee-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462575965,
+        "independent-payers-limit-0",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462575970,
+        "independent-payers-limit-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462576037,
+        "shared-payer-equal-fee-0",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462576038,
+        "shared-payer-equal-fee-0",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462576073,
+        "independent-payers-price-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462576078,
+        "shared-payer-price-1",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462576126,
+        "independent-payers-limit-1",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576134,
+        "independent-payers-price-1",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462576294,
+        "shared-payer-price-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462576301,
+        "shared-payer-limit-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462576318,
+        "shared-payer-price-1",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576324,
+        "independent-payers-equal-fee-1",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462576345,
+        "independent-payers-price-1",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576417,
+        "shared-payer-price-1",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576418,
+        "shared-payer-price-1",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462576445,
+        "independent-payers-limit-0",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462576446,
+        "independent-payers-limit-0",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576486,
+        "shared-payer-equal-fee-2",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576493,
+        "independent-payers-limit-2",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462576545,
+        "independent-payers-price-1",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462576546,
+        "independent-payers-price-1",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462576553,
+        "independent-payers-equal-fee-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576573,
+        "independent-payers-price-2",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576574,
+        "independent-payers-price-2",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462576579,
+        "shared-payer-equal-fee-1",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576710,
+        "shared-payer-limit-2",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462576718,
+        "independent-payers-equal-fee-1",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462576798,
+        "shared-payer-limit-1",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462576809,
+        "shared-payer-price-2",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462576901,
+        "shared-payer-limit-2",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462576902,
+        "shared-payer-limit-2",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462576906,
+        "shared-payer-limit-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462576949,
+        "shared-payer-equal-fee-1",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462576950,
+        "shared-payer-equal-fee-1",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462577013,
+        "independent-payers-equal-fee-1",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462577014,
+        "independent-payers-equal-fee-1",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577094,
+        "shared-payer-equal-fee-2",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577197,
+        "independent-payers-price-2",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577198,
+        "independent-payers-price-2",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462577203,
+        "independent-payers-limit-1",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577209,
+        "independent-payers-equal-fee-2",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577218,
+        "independent-payers-equal-fee-2",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577265,
+        "independent-payers-price-3",
+        "HarmonicAgave"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577266,
+        "independent-payers-price-3",
+        "HarmonicAgave"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462577369,
+        "shared-payer-price-1",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462577370,
+        "shared-payer-price-1",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577377,
+        "independent-payers-limit-2",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577425,
+        "independent-payers-limit-3",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577426,
+        "independent-payers-limit-3",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577486,
+        "shared-payer-price-2",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577525,
+        "shared-payer-equal-fee-3",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577526,
+        "shared-payer-equal-fee-3",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577534,
+        "shared-payer-price-3",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577542,
+        "independent-payers-price-3",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577554,
+        "shared-payer-equal-fee-3",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462577559,
+        "independent-payers-limit-1",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462577573,
+        "shared-payer-limit-1",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577594,
+        "shared-payer-limit-3",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462577605,
+        "shared-payer-equal-fee-1",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462577634,
+        "shared-payer-equal-fee-2",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577666,
+        "independent-payers-limit-3",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577689,
+        "independent-payers-equal-fee-3",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577690,
+        "independent-payers-equal-fee-3",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462577725,
+        "independent-payers-limit-1",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462577726,
+        "independent-payers-limit-1",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577733,
+        "shared-payer-limit-3",
+        "JitoLabs"
+      ],
+      "landed": 2,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 1
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577734,
+        "shared-payer-limit-3",
+        "JitoLabs"
+      ],
+      "landed": 2,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 1
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577806,
+        "independent-payers-equal-fee-4",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462577865,
+        "independent-payers-equal-fee-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577873,
+        "shared-payer-price-4",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577930,
+        "shared-payer-price-3",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577978,
+        "independent-payers-limit-4",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462577986,
+        "independent-payers-price-4",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462577993,
+        "independent-payers-limit-4",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578046,
+        "shared-payer-price-4",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578073,
+        "shared-payer-equal-fee-4",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578090,
+        "shared-payer-price-2",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462578094,
+        "independent-payers-price-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578099,
+        "independent-payers-price-4",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578130,
+        "shared-payer-equal-fee-4",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578135,
+        "independent-payers-equal-fee-4",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578206,
+        "shared-payer-limit-4",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578221,
+        "shared-payer-limit-4",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462578246,
+        "independent-payers-limit-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578273,
+        "independent-payers-limit-5",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578274,
+        "independent-payers-limit-5",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578297,
+        "independent-payers-limit-2",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578298,
+        "independent-payers-limit-2",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578305,
+        "shared-payer-price-5",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578313,
+        "independent-payers-price-5",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578369,
+        "independent-payers-limit-5",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578370,
+        "independent-payers-limit-5",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462578446,
+        "shared-payer-price-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578453,
+        "shared-payer-limit-2",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578486,
+        "shared-payer-equal-fee-5",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578491,
+        "independent-payers-equal-fee-5",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578534,
+        "shared-payer-equal-fee-5",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578553,
+        "independent-payers-equal-fee-5",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 6,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578582,
+        "shared-payer-limit-5",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578590,
+        "independent-payers-price-5",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462578673,
+        "shared-payer-limit-2",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462578674,
+        "shared-payer-limit-2",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578689,
+        "independent-payers-equal-fee-2",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462578701,
+        "shared-payer-price-5",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578730,
+        "independent-payers-price-2",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578758,
+        "shared-payer-limit-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578785,
+        "independent-payers-equal-fee-6",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578786,
+        "independent-payers-equal-fee-6",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578801,
+        "shared-payer-limit-6",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578810,
+        "shared-payer-equal-fee-6",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578826,
+        "independent-payers-limit-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578861,
+        "shared-payer-price-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578862,
+        "shared-payer-price-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578869,
+        "shared-payer-equal-fee-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462578877,
+        "independent-payers-price-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578893,
+        "independent-payers-limit-6",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578917,
+        "independent-payers-price-6",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462578918,
+        "independent-payers-price-6",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579017,
+        "shared-payer-price-6",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579018,
+        "shared-payer-price-6",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579034,
+        "shared-payer-limit-5",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579061,
+        "shared-payer-equal-fee-7",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579062,
+        "shared-payer-equal-fee-7",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579098,
+        "independent-payers-limit-6",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579118,
+        "shared-payer-price-7",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579119,
+        "shared-payer-price-7",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579138,
+        "independent-payers-limit-7",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462579173,
+        "shared-payer-limit-1",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462579174,
+        "shared-payer-limit-1",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579182,
+        "independent-payers-price-7",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462579190,
+        "shared-payer-equal-fee-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579195,
+        "shared-payer-limit-7",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579258,
+        "independent-payers-equal-fee-7",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462579269,
+        "shared-payer-equal-fee-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462579275,
+        "shared-payer-limit-3",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579282,
+        "shared-payer-price-8",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579309,
+        "shared-payer-price-6",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579310,
+        "shared-payer-price-6",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579357,
+        "independent-payers-equal-fee-6",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579365,
+        "shared-payer-equal-fee-6",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579406,
+        "independent-payers-equal-fee-8",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462579426,
+        "independent-payers-equal-fee-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 6,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579437,
+        "shared-payer-limit-6",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579513,
+        "independent-payers-limit-8",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579514,
+        "independent-payers-limit-8",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462579522,
+        "shared-payer-price-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579537,
+        "independent-payers-price-8",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462579650,
+        "independent-payers-equal-fee-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462579651,
+        "independent-payers-equal-fee-3",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579661,
+        "shared-payer-limit-8",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579678,
+        "shared-payer-equal-fee-8",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462579706,
+        "independent-payers-price-4",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579758,
+        "independent-payers-equal-fee-9",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462579786,
+        "shared-payer-equal-fee-4",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462579809,
+        "independent-payers-equal-fee-3",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462579810,
+        "independent-payers-equal-fee-3",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579874,
+        "independent-payers-price-6",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579902,
+        "independent-payers-price-9",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579903,
+        "independent-payers-price-9",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579914,
+        "shared-payer-equal-fee-9",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462579953,
+        "independent-payers-price-1",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462579954,
+        "independent-payers-price-1",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462579962,
+        "independent-payers-price-7",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462579977,
+        "independent-payers-limit-9",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462579993,
+        "shared-payer-limit-2",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462580005,
+        "independent-payers-equal-fee-2",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462580007,
+        "independent-payers-equal-fee-2",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580011,
+        "shared-payer-equal-fee-7",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462580073,
+        "independent-payers-limit-3",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580130,
+        "shared-payer-price-7",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462580141,
+        "shared-payer-limit-4",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580221,
+        "independent-payers-equal-fee-7",
+        "JitoLabs"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580222,
+        "independent-payers-equal-fee-7",
+        "JitoLabs"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462580233,
+        "independent-payers-price-0",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462580277,
+        "shared-payer-equal-fee-3",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462580278,
+        "shared-payer-equal-fee-3",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580302,
+        "shared-payer-limit-7",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580314,
+        "independent-payers-limit-7",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580333,
+        "shared-payer-limit-9",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580334,
+        "shared-payer-limit-9",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462580357,
+        "shared-payer-price-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580425,
+        "shared-payer-price-9",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580458,
+        "shared-payer-limit-10",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580514,
+        "shared-payer-price-10",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580519,
+        "independent-payers-equal-fee-8",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580533,
+        "independent-payers-limit-8",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580558,
+        "independent-payers-price-8",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462580565,
+        "independent-payers-limit-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580573,
+        "independent-payers-equal-fee-10",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580602,
+        "independent-payers-price-10",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580609,
+        "shared-payer-equal-fee-10",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580645,
+        "shared-payer-limit-8",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580646,
+        "shared-payer-limit-8",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580651,
+        "independent-payers-limit-10",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462580689,
+        "shared-payer-price-3",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462580690,
+        "shared-payer-price-3",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580737,
+        "independent-payers-equal-fee-11",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580738,
+        "independent-payers-equal-fee-11",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462580781,
+        "independent-payers-price-2",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462580858,
+        "independent-payers-price-3",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462580942,
+        "shared-payer-limit-11",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462580970,
+        "shared-payer-price-8",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 6,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462581022,
+        "shared-payer-equal-fee-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462581029,
+        "independent-payers-limit-11",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462581129,
+        "independent-payers-limit-2",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462581130,
+        "independent-payers-limit-2",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581141,
+        "shared-payer-equal-fee-8",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581142,
+        "shared-payer-equal-fee-8",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581182,
+        "independent-payers-limit-4",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462581213,
+        "independent-payers-equal-fee-1",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462581214,
+        "independent-payers-equal-fee-1",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581250,
+        "independent-payers-equal-fee-4",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581277,
+        "independent-payers-limit-9",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581278,
+        "independent-payers-limit-9",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462581322,
+        "shared-payer-limit-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581326,
+        "shared-payer-limit-9",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581338,
+        "shared-payer-equal-fee-9",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581337,
+        "shared-payer-equal-fee-9",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581402,
+        "shared-payer-price-4",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581442,
+        "independent-payers-price-9",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462581473,
+        "shared-payer-price-4",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462581474,
+        "shared-payer-price-4",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581505,
+        "shared-payer-price-9",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581514,
+        "independent-payers-equal-fee-9",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581522,
+        "shared-payer-price-10",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462581565,
+        "shared-payer-equal-fee-11",
+        "HarmonicAgave"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462581566,
+        "shared-payer-equal-fee-11",
+        "HarmonicAgave"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581622,
+        "independent-payers-equal-fee-10",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581670,
+        "shared-payer-price-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581686,
+        "shared-payer-limit-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581685,
+        "shared-payer-limit-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462581702,
+        "shared-payer-price-11",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462581707,
+        "shared-payer-price-2",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "4.3.2",
+        462581717,
+        "independent-payers-price-11",
+        "HarmonicAgave"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581821,
+        "independent-payers-equal-fee-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462581822,
+        "independent-payers-equal-fee-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462581862,
+        "shared-payer-equal-fee-2",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462581882,
+        "shared-payer-limit-3",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581901,
+        "shared-payer-equal-fee-10",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581902,
+        "shared-payer-equal-fee-10",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462581909,
+        "independent-payers-limit-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581961,
+        "independent-payers-limit-10",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581962,
+        "independent-payers-limit-10",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581977,
+        "independent-payers-price-10",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 6,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462581989,
+        "shared-payer-limit-10",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462582014,
+        "shared-payer-equal-fee-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462582038,
+        "independent-payers-price-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582045,
+        "independent-payers-limit-11",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462582070,
+        "independent-payers-price-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582082,
+        "shared-payer-price-11",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462582142,
+        "independent-payers-limit-5",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582189,
+        "shared-payer-equal-fee-11",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462582197,
+        "independent-payers-equal-fee-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462582226,
+        "shared-payer-equal-fee-6",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582269,
+        "independent-payers-equal-fee-11",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582270,
+        "independent-payers-equal-fee-11",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462582290,
+        "shared-payer-price-6",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582313,
+        "shared-payer-limit-11",
+        "JitoLabs"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582314,
+        "shared-payer-limit-11",
+        "JitoLabs"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "4.3.2",
+        462582333,
+        "independent-payers-price-11",
+        "JitoLabs"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 6,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462582629,
+        "independent-payers-limit-5",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462582630,
+        "independent-payers-limit-5",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462582861,
+        "independent-payers-price-3",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462583005,
+        "independent-payers-equal-fee-5",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462583006,
+        "independent-payers-equal-fee-5",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462583086,
+        "independent-payers-price-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462583190,
+        "shared-payer-equal-fee-3",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462583306,
+        "shared-payer-limit-5",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462583602,
+        "independent-payers-price-6",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462583914,
+        "shared-payer-limit-1",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462583915,
+        "shared-payer-limit-1",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462583934,
+        "shared-payer-limit-6",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462584186,
+        "shared-payer-equal-fee-1",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462584373,
+        "independent-payers-price-5",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462584374,
+        "independent-payers-price-5",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462584398,
+        "independent-payers-limit-6",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462584598,
+        "independent-payers-limit-3",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462584658,
+        "independent-payers-equal-fee-6",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462584769,
+        "independent-payers-equal-fee-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462584770,
+        "independent-payers-equal-fee-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462584842,
+        "independent-payers-equal-fee-3",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462584886,
+        "shared-payer-price-5",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462585001,
+        "independent-payers-equal-fee-2",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462585002,
+        "independent-payers-equal-fee-2",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462585094,
+        "shared-payer-equal-fee-5",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462585093,
+        "shared-payer-equal-fee-5",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462585154,
+        "shared-payer-equal-fee-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462585189,
+        "independent-payers-limit-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462585190,
+        "independent-payers-limit-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462585229,
+        "independent-payers-equal-fee-6",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462585230,
+        "independent-payers-equal-fee-6",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462585258,
+        "shared-payer-price-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462585334,
+        "shared-payer-price-3",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462585374,
+        "independent-payers-limit-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462585406,
+        "independent-payers-price-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462585418,
+        "shared-payer-limit-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462585423,
+        "independent-payers-limit-4",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462585578,
+        "independent-payers-price-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462585618,
+        "shared-payer-price-4",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462585745,
+        "shared-payer-price-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462585746,
+        "shared-payer-price-7",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462585821,
+        "shared-payer-limit-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462585885,
+        "independent-payers-equal-fee-4",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462585886,
+        "independent-payers-equal-fee-4",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462586013,
+        "shared-payer-limit-4",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462586265,
+        "shared-payer-price-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462586338,
+        "independent-payers-price-8",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462586339,
+        "independent-payers-price-8",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462586425,
+        "shared-payer-equal-fee-6",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462586426,
+        "shared-payer-equal-fee-6",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462586450,
+        "independent-payers-price-4",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462586510,
+        "shared-payer-limit-8",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462586722,
+        "shared-payer-equal-fee-4",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462586727,
+        "shared-payer-equal-fee-8",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462586758,
+        "independent-payers-equal-fee-8",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462586763,
+        "shared-payer-equal-fee-5",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462587006,
+        "independent-payers-limit-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587101,
+        "shared-payer-price-8",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587102,
+        "shared-payer-price-8",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462587118,
+        "shared-payer-limit-5",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462587150,
+        "shared-payer-price-5",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587186,
+        "shared-payer-limit-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587302,
+        "shared-payer-price-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587394,
+        "independent-payers-equal-fee-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462587518,
+        "independent-payers-limit-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462587726,
+        "independent-payers-price-5",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587802,
+        "shared-payer-equal-fee-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587857,
+        "independent-payers-limit-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587858,
+        "independent-payers-limit-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587961,
+        "independent-payers-price-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587962,
+        "independent-payers-price-9",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462587977,
+        "shared-payer-limit-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462587982,
+        "shared-payer-limit-10",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462588189,
+        "independent-payers-equal-fee-5",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462588190,
+        "independent-payers-equal-fee-5",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462588221,
+        "shared-payer-equal-fee-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588230,
+        "shared-payer-price-10",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462588235,
+        "independent-payers-price-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588374,
+        "shared-payer-equal-fee-10",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462588417,
+        "independent-payers-equal-fee-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588434,
+        "independent-payers-limit-10",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588450,
+        "independent-payers-equal-fee-10",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588498,
+        "independent-payers-price-10",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588589,
+        "independent-payers-price-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588590,
+        "independent-payers-price-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588665,
+        "shared-payer-price-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588666,
+        "shared-payer-price-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462588838,
+        "shared-payer-price-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588938,
+        "shared-payer-limit-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462588994,
+        "independent-payers-limit-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462589001,
+        "independent-payers-limit-5",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462589046,
+        "shared-payer-price-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462589101,
+        "shared-payer-equal-fee-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462589102,
+        "shared-payer-equal-fee-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462589253,
+        "shared-payer-equal-fee-6",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462589254,
+        "shared-payer-equal-fee-6",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462589269,
+        "shared-payer-equal-fee-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462589309,
+        "independent-payers-equal-fee-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "26.10.4",
+        462589310,
+        "independent-payers-equal-fee-11",
+        "HarmonicFiredancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462589341,
+        "shared-payer-limit-8",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462589342,
+        "shared-payer-limit-8",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462589558,
+        "shared-payer-equal-fee-2",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462589597,
+        "shared-payer-price-6",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462589598,
+        "shared-payer-price-6",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462589625,
+        "independent-payers-limit-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462589750,
+        "independent-payers-limit-6",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462589925,
+        "independent-payers-price-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462590218,
+        "shared-payer-limit-6",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462590421,
+        "independent-payers-price-2",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462590422,
+        "independent-payers-price-2",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462590894,
+        "independent-payers-equal-fee-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462590925,
+        "shared-payer-limit-2",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 1
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462590926,
+        "shared-payer-limit-2",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 1
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462590973,
+        "independent-payers-limit-9",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462590974,
+        "independent-payers-limit-9",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462591162,
+        "independent-payers-price-6",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462591270,
+        "independent-payers-equal-fee-6",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462591285,
+        "shared-payer-equal-fee-7",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462591802,
+        "shared-payer-limit-9",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462591881,
+        "independent-payers-limit-3",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462591882,
+        "independent-payers-limit-3",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462592142,
+        "shared-payer-price-7",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462592402,
+        "independent-payers-price-3",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462592625,
+        "shared-payer-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462592626,
+        "shared-payer-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462592825,
+        "independent-payers-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462592826,
+        "independent-payers-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462592942,
+        "shared-payer-limit-7",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593069,
+        "shared-payer-price-9",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462593075,
+        "independent-payers-limit-7",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593318,
+        "independent-payers-price-9",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462593341,
+        "shared-payer-price-3",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462593342,
+        "shared-payer-price-3",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462593429,
+        "independent-payers-price-7",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593449,
+        "independent-payers-limit-10",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593450,
+        "independent-payers-limit-10",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593489,
+        "shared-payer-price-10",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593490,
+        "shared-payer-price-10",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462593517,
+        "independent-payers-equal-fee-7",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462593518,
+        "independent-payers-equal-fee-7",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593597,
+        "shared-payer-equal-fee-10",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593613,
+        "independent-payers-equal-fee-10",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593865,
+        "shared-payer-limit-10",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462593866,
+        "shared-payer-limit-10",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462594338,
+        "independent-payers-price-10",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462594561,
+        "independent-payers-price-11",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462594662,
+        "shared-payer-equal-fee-11",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462595118,
+        "independent-payers-equal-fee-8",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462595269,
+        "shared-payer-price-11",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462595305,
+        "shared-payer-limit-11",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462595482,
+        "shared-payer-price-8",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462595673,
+        "shared-payer-limit-3",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462595674,
+        "shared-payer-limit-3",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462595685,
+        "shared-payer-equal-fee-3",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462595717,
+        "independent-payers-limit-8",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462595718,
+        "independent-payers-limit-8",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462595853,
+        "independent-payers-equal-fee-11",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462596021,
+        "independent-payers-limit-11",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "26.10.4",
+        462596022,
+        "independent-payers-limit-11",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462596185,
+        "shared-payer-limit-8",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462596186,
+        "shared-payer-limit-8",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462596761,
+        "independent-payers-price-8",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462596762,
+        "independent-payers-price-8",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462596890,
+        "independent-payers-equal-fee-3",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462597357,
+        "shared-payer-limit-4",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462597358,
+        "shared-payer-limit-4",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462597881,
+        "shared-payer-price-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462598149,
+        "shared-payer-equal-fee-8",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462598474,
+        "independent-payers-equal-fee-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462598686,
+        "independent-payers-equal-fee-9",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462598718,
+        "shared-payer-limit-9",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462599121,
+        "shared-payer-price-9",
+        "FireBAM"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462599122,
+        "shared-payer-price-9",
+        "FireBAM"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462599253,
+        "shared-payer-equal-fee-4",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462599254,
+        "shared-payer-equal-fee-4",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462599797,
+        "shared-payer-equal-fee-9",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462599798,
+        "shared-payer-equal-fee-9",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462599878,
+        "independent-payers-limit-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462600205,
+        "independent-payers-price-9",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462600206,
+        "independent-payers-price-9",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462600442,
+        "independent-payers-price-4",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462600881,
+        "independent-payers-limit-9",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462600882,
+        "independent-payers-limit-9",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462601037,
+        "shared-payer-price-5",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462601038,
+        "shared-payer-price-5",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462601729,
+        "shared-payer-limit-10",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462601730,
+        "shared-payer-limit-10",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462601850,
+        "shared-payer-price-10",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462602149,
+        "shared-payer-limit-5",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462602562,
+        "independent-payers-equal-fee-10",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462602689,
+        "shared-payer-equal-fee-10",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462602690,
+        "shared-payer-equal-fee-10",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462602866,
+        "independent-payers-price-10",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462602905,
+        "shared-payer-equal-fee-5",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462602906,
+        "shared-payer-equal-fee-5",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462603069,
+        "independent-payers-limit-10",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462603070,
+        "independent-payers-limit-10",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462603358,
+        "shared-payer-equal-fee-11",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462603657,
+        "shared-payer-limit-11",
+        "FireBAM"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462603658,
+        "shared-payer-limit-11",
+        "FireBAM"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462603666,
+        "shared-payer-price-11",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 5,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462603701,
+        "independent-payers-limit-5",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462603702,
+        "independent-payers-limit-5",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462604058,
+        "independent-payers-equal-fee-11",
+        "FireBAM"
+      ],
+      "landed": 2,
+      "concordant": 0,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462604342,
+        "independent-payers-price-11",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "26.10.5",
+        462604389,
+        "independent-payers-limit-11",
+        "FireBAM"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462605854,
+        "independent-payers-equal-fee-5",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462608213,
+        "independent-payers-price-5",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462608214,
+        "independent-payers-price-5",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462608229,
+        "independent-payers-equal-fee-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462609417,
+        "shared-payer-limit-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462609554,
+        "shared-payer-price-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 1,
+      "discordant": 5,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462610109,
+        "shared-payer-equal-fee-6",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462610110,
+        "shared-payer-equal-fee-6",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462611414,
+        "independent-payers-limit-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462611554,
+        "independent-payers-price-6",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 6,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462611621,
+        "shared-payer-equal-fee-7",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462611622,
+        "shared-payer-equal-fee-7",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462612801,
+        "independent-payers-equal-fee-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462613885,
+        "shared-payer-price-7",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462613886,
+        "shared-payer-price-7",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462614997,
+        "independent-payers-limit-7",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462614998,
+        "independent-payers-limit-7",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462619705,
+        "shared-payer-limit-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462620837,
+        "independent-payers-price-7",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 2,
+      "discordant": 4,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462620949,
+        "shared-payer-limit-8",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462620950,
+        "shared-payer-limit-8",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462622090,
+        "independent-payers-limit-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462623141,
+        "shared-payer-equal-fee-8",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462623142,
+        "shared-payer-equal-fee-8",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462623545,
+        "shared-payer-price-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 6,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462624098,
+        "independent-payers-price-8",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462624769,
+        "independent-payers-equal-fee-8",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462624770,
+        "independent-payers-equal-fee-8",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462624953,
+        "independent-payers-price-9",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462624954,
+        "independent-payers-price-9",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 2,
+      "discordant": 1,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462626785,
+        "shared-payer-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462626786,
+        "shared-payer-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462627366,
+        "independent-payers-limit-9",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462627465,
+        "independent-payers-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462627466,
+        "independent-payers-equal-fee-9",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462629021,
+        "shared-payer-limit-9",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462629022,
+        "shared-payer-limit-9",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462629466,
+        "shared-payer-price-9",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462629874,
+        "independent-payers-price-10",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 4,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462633445,
+        "shared-payer-equal-fee-10",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462633446,
+        "shared-payer-equal-fee-10",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462633906,
+        "shared-payer-price-10",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 3,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462635729,
+        "independent-payers-limit-10",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 3
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462635730,
+        "independent-payers-limit-10",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462638389,
+        "independent-payers-equal-fee-10",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462638390,
+        "independent-payers-equal-fee-10",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 1,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462638789,
+        "shared-payer-limit-10",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462639262,
+        "shared-payer-limit-11",
+        "Firedancer"
+      ],
+      "landed": 4,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 6
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462640521,
+        "independent-payers-price-11",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462640522,
+        "independent-payers-price-11",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462641081,
+        "shared-payer-equal-fee-11",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462641082,
+        "shared-payer-equal-fee-11",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 1,
+      "discordant": 2,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462641465,
+        "independent-payers-equal-fee-11",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462641466,
+        "independent-payers-equal-fee-11",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 3,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462644465,
+        "shared-payer-price-11",
+        "Firedancer"
+      ],
+      "landed": 1,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462644466,
+        "shared-payer-price-11",
+        "Firedancer"
+      ],
+      "landed": 3,
+      "concordant": 0,
+      "discordant": 3,
+      "ties": 0
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462645997,
+        "independent-payers-limit-11",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 1
+    },
+    {
+      "stratum": [
+        "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "26.10.5",
+        462645998,
+        "independent-payers-limit-11",
+        "Firedancer"
+      ],
+      "landed": 2,
+      "concordant": 0,
+      "discordant": 0,
+      "ties": 1
+    }
+  ]
+}

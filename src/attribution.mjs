@@ -17,7 +17,7 @@ export async function attributeRun(runDir,output){
  const enriched=rows.map(row=>{
   const snapshot=histories.get(row.targetValidator)?.findLast(s=>s.at<=row.at);
   const matches=snapshot?.version===targets.get(row.targetValidator)?.version;
-  return {...row,targetClientId:matches?snapshot.clientId:null,clientId:row.onTarget&&matches?snapshot.clientId:null,clientEvidence:snapshot?{source:'getClusterNodes / advertised clientId, not binary attestation',snapshotAt:snapshot.at,rawLog:'rpc.jsonl',line:snapshot.line,sha256Record:snapshot.sha256,featureSet:snapshot.featureSet,ageMs:Date.parse(row.at)-Date.parse(snapshot.at),versionMatches:matches}:null};
+  return {...row,targetVersion:targets.get(row.targetValidator)?.version??null,targetClientId:matches?snapshot.clientId:null,clientId:row.onTarget&&matches?snapshot.clientId:null,clientEvidence:snapshot?{source:'getClusterNodes / advertised clientId, not binary attestation',snapshotAt:snapshot.at,rawLog:'rpc.jsonl',line:snapshot.line,sha256Record:snapshot.sha256,featureSet:snapshot.featureSet,ageMs:Date.parse(row.at)-Date.parse(snapshot.at),versionMatches:matches}:null};
  });
  if(output){mkdirSync(dirname(output),{recursive:true});writeFileSync(output,enriched.map(r=>JSON.stringify(r)).join('\n')+'\n');}
  return enriched;

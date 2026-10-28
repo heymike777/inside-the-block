@@ -32,3 +32,7 @@ All 288 primary probes finalized: 280 on-target, 8 off-target, 0 failed, 0 unres
 ## Strengthening requested 2026-10-28
 
 User requested 12 repeats and explicit client/fork attribution, then authorized background continuation with notification only once data and report are ready. Expanded-v3 is running (data/21d977ce-c0cd-4081-b8a2-bc8b5d876465), using seeded interleaved rounds and the same cumulative budget. The baseline raw data is immutable. Temporal clientId attribution now covers all 280 baseline on-target probes, maximum snapshot query age 1,333 ms, with five advertised variants. The source mapping and dated monitor discrepancy are documented in CLIENT-ATTRIBUTION.md. Final expanded counts and inference are pending collection; no completion claim is made yet.
+
+## Expanded capture completed
+
+Capture finished on 2026-10-28 at 22:31:28 UTC after a continuation of the final two batches. 1,728/1,728 expanded probes finalized: 1,708 on intended leaders, 20 elsewhere, zero on-chain failures or unresolved statuses. Every identity has 72 batches / 288 attempts. Five advertised client IDs and three numeric versions were observed; all on-target probes have contemporaneous attribution. 294/432 batches were complete same-block bursts; no eligible block mixed nominal dispatch windows. Expanded fees: 9,233,280 lamports; cumulative baseline+pilot+expanded fees and reservations: 10,816,600 lamports. Raw archives, attribution, full-burst sensitivity and separate-phase report prepared. Publication/CI verification follows.

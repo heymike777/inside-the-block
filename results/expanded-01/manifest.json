@@ -1,0 +1,65 @@
+{
+  "provenance": {
+    "providerFamily": "helius-rpc.com",
+    "nodeVersion": "v24.12.0",
+    "platform": "darwin",
+    "transport": "Node fetch HTTPS JSON-RPC; no direct TPU, bundles or tips",
+    "senderLocation": "Physical location and route unmeasured; local desktop configured Europe/Warsaw",
+    "endpointCredentials": "withheld"
+  },
+  "runId": "21d977ce-c0cd-4081-b8a2-bc8b5d876465",
+  "live": true,
+  "startedAt": "2026-10-28T18:19:45.001Z",
+  "config": {
+    "seed": 2026102801,
+    "repeats": 12,
+    "maxWaitSeconds": 14400,
+    "capLamports": 49000000,
+    "phase": "expanded-v3",
+    "sendMode": "burst",
+    "targets": [
+      {
+        "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "version": "4.3.2"
+      },
+      {
+        "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "version": "4.3.2"
+      },
+      {
+        "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "version": "26.10.4"
+      },
+      {
+        "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "version": "26.10.4"
+      },
+      {
+        "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "version": "26.10.5"
+      },
+      {
+        "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "version": "26.10.5"
+      }
+    ],
+    "batchOrder": "interleaved-rounds"
+  },
+  "designHash": "938de889dc88bcadd490356a087465edfda85f3d3d2c01f7f4065f54c5e24cd0",
+  "payerAddresses": [
+    "BUNgM7Gh1XNaDkpX7Wmt2B7yxa9Stoa8Q9C6jNcccf7N",
+    "9gmqS3J2j2RRAb4SVEzFrhXETchJvi72zK3daAahSUet",
+    "4uapqV8UcUyEXu9tXuGMZ4vChyBds4CMCWj1xTDUKAF1",
+    "9Sf7CXZ22hDi4Q2hWBherBuqW79Zpqq51FUgJJXqn1jw"
+  ],
+  "epoch": {
+    "absoluteSlot": 462575362,
+    "blockHeight": 440599813,
+    "epoch": 1070,
+    "slotIndex": 335362,
+    "slotsInEpoch": 432000,
+    "transactionCount": 564178860894
+  },
+  "delivery": "JSON-RPC burst forwarding, maxRetries=0, skipPreflight=true; arrival at validator unobserved",
+  "budgetPath": "/Users/heymike/Projects/superteam-earn/inside-the-block/data/budget.jsonl"
+}

@@ -33,5 +33,29 @@
       "Firedancer"
     ],
     "maxSnapshotAgeMs": 1198
+  },
+  {
+    "run": "expanded-01",
+    "rows": 1720,
+    "attributedOnTarget": 1700,
+    "unattributedOnTarget": 0,
+    "clientIds": [
+      "HarmonicAgave",
+      "FireBAM",
+      "Firedancer",
+      "JitoLabs",
+      "HarmonicFiredancer"
+    ],
+    "maxSnapshotAgeMs": 1332
+  },
+  {
+    "run": "expanded-02",
+    "rows": 8,
+    "attributedOnTarget": 8,
+    "unattributedOnTarget": 0,
+    "clientIds": [
+      "Firedancer"
+    ],
+    "maxSnapshotAgeMs": 714
   }
 ]
