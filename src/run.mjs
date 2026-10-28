@@ -4,7 +4,7 @@ import { randomUUID } from 'node:crypto';
 import { performance } from 'node:perf_hooks';
 import { createKeyPairSignerFromBytes, generateKeyPairSigner } from '@solana/kit';
 import { rpcClient } from './rpc.mjs';
-import { Budget, MAINNET_GENESIS, plan, digest } from './core.mjs';
+import { Budget, MAINNET_GENESIS, plan, digest, orderBatches } from './core.mjs';
 import { buildProbe } from './transactions.mjs';
 import { provenance } from './provenance.mjs';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -31,7 +31,8 @@ export async function run(args, out) {
     for (const target of config.targets) {
       const node = nodes.find(n => n.pubkey === target.identity);
       if (!node?.version || node.version !== target.version) throw Error(`Target version missing/changed: ${target.identity}`);
-      targetVersions.set(target.identity, node.version);
+      if(target.clientId && node.clientId!==target.clientId) throw Error(`Target clientId changed: ${target.identity}`);
+      targetVersions.set(target.identity, {version:node.version,clientId:node.clientId??null});
     }
     if (new Set(config.targets.map(t => t.identity)).size !== config.targets.length) throw Error('Duplicate target');
     const keyPaths = process.env.KEYPAIR_PATHS?.split(',').map(s => s.trim()).filter(Boolean) || [];
@@ -51,14 +52,14 @@ export async function run(args, out) {
     const completed = new Set();
     for (const previous of config.resumeFrom ?? []) {
       const old = JSON.parse(readFileSync(`${previous}/manifest.json`,'utf8'));
-      if(old.designHash!==digest(batches) || old.config.phase!==config.phase || old.config.sendMode!==config.sendMode) throw Error('Resume design/phase mismatch');
+      if(old.designHash!==digest(batches) || old.config.phase!==config.phase || old.config.sendMode!==config.sendMode || (old.config.batchOrder??'grouped')!==(config.batchOrder??'grouped')) throw Error('Resume design/phase mismatch');
       const attempts=readFileSync(`${previous}/attempts.jsonl`,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse);
       for(const row of attempts) {
         const target=config.targets.find(t=>t.identity===row.targetValidator);
         if(target?.version===row.version) completed.add(`${row.targetValidator}:${row.batch}`);
       }
     }
-    const queues = new Map(config.targets.map(t => [t.identity, batches.filter(b=>!completed.has(`${t.identity}:${b.id}`))]));
+    const queues = new Map(config.targets.map(t => [t.identity, orderBatches(batches,t.identity,config.seed??20261028,config.batchOrder??'grouped').filter(b=>!completed.has(`${t.identity}:${b.id}`))]));
     const manifest = {provenance:provenance(process.env.RPC_URL || 'https://api.mainnet-beta.solana.com'),runId, live, startedAt:new Date().toISOString(), config, designHash:digest(batches), payerAddresses:signers.map(s=>s.address), epoch, delivery:`JSON-RPC ${config.sendMode??'sequential'} forwarding, maxRetries=0, skipPreflight=true; arrival at validator unobserved`, budgetPath:resolve(out,'budget.jsonl')};
     writeFileSync(`${dir}/manifest.json`, JSON.stringify(manifest,null,2));
     if (!windows.length) throw Error('No future windows in current epoch; rediscover later');
@@ -92,13 +93,15 @@ export async function run(args, out) {
           if (balance < required) throw Error(`Insufficient fee balance for payer ${i}`);
         }
       }
-      const versionNow = (await rpc('getClusterNodes')).find(n=>n.pubkey===window.identity)?.version;
+      const contactNow = (await rpc('getClusterNodes')).find(n=>n.pubkey===window.identity);
+      const versionNow=contactNow?.version;
+      if((contactNow?.clientId??null)!==targetVersions.get(window.identity).clientId) throw Error('Validator changed clientId before send');
       if (versionNow !== window.version) throw Error('Validator changed version before send');
       while ((slot = await rpc('getSlot',[{commitment:'processed'}])) < window.slot && Date.now()-started < maxWait*1000) await sleep(80);
       if (slot > window.endSlot || Date.now()-started >= maxWait*1000) { log('events',{type:'missed-version-check',...window,slot}); continue; }
       const records = [];
       const submit = async (probe) => {
-        const row = {runId,phase:config.phase??'pilot-v2',signature:probe.signature, batch:batch.id, ...probe.cell, locks:batch.locks,treatment:batch.treatment,targetValidator:window.identity,version:window.version,targetSlot:window.slot,observedSendSlot:slot,lastValidBlockHeight:lifetime.lastValidBlockHeight,simulationError:probe.simulationError,quotedFee:probe.quotedFee,live,sendStartedMs:performance.now()};
+        const row = {advertisedClientId:contactNow?.clientId??null,runId,phase:config.phase??'pilot-v2',signature:probe.signature, batch:batch.id, ...probe.cell, locks:batch.locks,treatment:batch.treatment,targetValidator:window.identity,version:window.version,targetSlot:window.slot,observedSendSlot:slot,lastValidBlockHeight:lifetime.lastValidBlockHeight,simulationError:probe.simulationError,quotedFee:probe.quotedFee,live,sendStartedMs:performance.now()};
         if (live) budget.reserve(probe.signature,probe.quotedFee);
         log('attempts',row); // Persist signature before any possibly ambiguous submission.
         if (live) {
@@ -128,21 +131,24 @@ export async function collect(runDir) {
   const attempts = readFileSync(`${runDir}/attempts.jsonl`,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse);
   const rpc = rpcClient(process.env.RPC_URL || 'https://api.mainnet-beta.solana.com', e => appendFileSync(`${runDir}/collection-rpc.jsonl`,JSON.stringify(e)+'\n'));
   if (await rpc('getGenesisHash') !== MAINNET_GENESIS) throw Error('Not mainnet');
-  const rows = [], cache = new Map();
+  const rows = [], cache = new Map(), probeSignatures=new Set(attempts.map(a=>a.signature));
+  const statuses=new Map();
+  for(let start=0;start<attempts.length;start+=128){const batch=attempts.slice(start,start+128);const result=(await rpc('getSignatureStatuses',[batch.map(a=>a.signature),{searchTransactionHistory:true}])).value;for(let i=0;i<batch.length;i++)statuses.set(batch[i].signature,result[i]);}
   for (const attempt of attempts) {
-    const status = (await rpc('getSignatureStatuses',[[attempt.signature],{searchTransactionHistory:true}])).value[0];
+    const status = statuses.get(attempt.signature);
     if (!status || status.confirmationStatus !== 'finalized') { rows.push({...attempt,status:'unresolved'}); continue; }
     if (!cache.has(status.slot)) {
       const block = await rpc('getBlock',[status.slot,{encoding:'json',transactionDetails:'full',rewards:false,maxSupportedTransactionVersion:1,commitment:'finalized'}]);
       const leaders = await rpc('getSlotLeaders',[status.slot,1]);
-      cache.set(status.slot,{block,validator:leaders[0]});
+      const probes=new Map();
+      for(let i=0;i<block.transactions.length;i++){const tx=block.transactions[i],signature=tx.transaction.signatures[0];if(probeSignatures.has(signature))probes.set(signature,{blockIndex:i,error:tx.meta.err,actualFee:tx.meta.fee,computeUnitsConsumed:tx.meta.computeUnitsConsumed});}
+      cache.set(status.slot,{blockTime:block.blockTime,validator:leaders[0],probes});
       writeFileSync(`${runDir}/block-${status.slot}.json`,JSON.stringify({slot:status.slot,validator:leaders[0],block}));
     }
-    const {block,validator} = cache.get(status.slot);
-    const index = block?.transactions.findIndex(t=>t.transaction.signatures[0]===attempt.signature) ?? -1;
-    if (index < 0) throw Error('Finalized signature absent from reported block');
-    const tx = block.transactions[index];
-    rows.push({...attempt,runId:manifest.runId,phase:attempt.phase??'pilot-v1',slot:status.slot,blockTime:block.blockTime,validator,blockIndex:index,error:tx.meta.err,actualFee:tx.meta.fee,computeUnitsConsumed:tx.meta.computeUnitsConsumed,status:'finalized',onTarget:validator===attempt.targetValidator,version:validator===attempt.targetValidator?attempt.version:null});
+    const {blockTime,validator,probes} = cache.get(status.slot);
+    const probe=probes.get(attempt.signature);
+    if(!probe)throw Error('Finalized signature absent from reported block');
+    rows.push({...attempt,runId:manifest.runId,phase:attempt.phase??'pilot-v1',slot:status.slot,blockTime,validator,...probe,status:'finalized',onTarget:validator===attempt.targetValidator,version:validator===attempt.targetValidator?attempt.version:null});
   }
   writeFileSync(`${runDir}/observations.jsonl`,rows.map(r=>JSON.stringify(r)).join('\n')+'\n');
   console.log(`Collected ${rows.length} observations; unresolved signatures retained.`);

@@ -1,3 +1,5 @@
+> **Baseline report.** A separate 12-repeat confirmation campaign is in progress. Client attribution below is reconstructed from measurement-time raw gossip; see [confidence and monitor cross-check](docs/CLIENT-ATTRIBUTION.md). Expanded results are not yet included.
+
 # Inside the Block: measured ordering under RPC forwarding
 
 Measurement dates: 2026-10-28 (UTC). Experiment phase: main-v2.
@@ -6,26 +8,26 @@ Measurement dates: 2026-10-28 (UTC). Experiment phase: main-v2.
 
 The observable is the serialized position of our own successful transactions in finalized blocks. This dataset does not identify a unique internal scheduler rule: arrival at the leader is unobserved, and priority is not the only scheduling constraint. The tables quantify how well simple predictors match observed order for each sampled validator/version. A counterexample to global fee-sorted block order is not a counterexample to a queue that prioritizes the transactions available at a particular instant.
 
-Recorded attempts: 288. Successful on-target observations: 280. Distinct on-target identities: 6. Distinct exact version strings: 3.
+Recorded attempts: 288. Successful on-target observations: 280. Distinct on-target identities: 6. Distinct exact version strings: 3. Distinct advertised clientIds: 5.
 
 ## Per-validator price sweep
 
-Within each window, score concordant same-block pairs / all informative same-block pairs, then average windows equally. Higher CU price is the candidate prediction. A score of 1 means all compared pairs in the observed sample agree; it does not prove the rule. A score near 0.5 is not proof of randomness. With only two planned repeats per cell, confidence intervals are withheld: this implementation requires at least five informative windows before computing an exploratory bootstrap interval.
+Within each window, score concordant same-block pairs / all informative same-block pairs, then average windows equally. Higher CU price is the candidate prediction. A score of 1 means all compared pairs in the observed sample agree; it does not prove the rule. A score near 0.5 is not proof of randomness. This dataset contains 2 observed repeat identifiers. Confidence intervals are withheld below five informative windows; shown intervals are exploratory and marginal, without multiplicity correction.
 
-| Validator | Version | Locks | Informative windows | Mean price concordance | Exploratory 95% interval |
-|---|---|---|---:|---:|---|
-| Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk | 4.3.2 | shared-payer | 2 | 0.833 | insufficient windows |
-| 9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP | 26.10.5 | shared-payer | 2 | 0.750 | insufficient windows |
-| JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b | 26.10.4 | shared-payer | 2 | 1.000 | insufficient windows |
-| 9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY | 26.10.4 | shared-payer | 2 | 1.000 | insufficient windows |
-| HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU | 4.3.2 | shared-payer | 1 | 0.167 | insufficient windows |
-| DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf | 26.10.5 | shared-payer | 2 | 0.500 | insufficient windows |
-| Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk | 4.3.2 | independent-payers | 2 | 0.583 | insufficient windows |
-| HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU | 4.3.2 | independent-payers | 2 | 0.750 | insufficient windows |
-| JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b | 26.10.4 | independent-payers | 2 | 0.750 | insufficient windows |
-| 9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP | 26.10.5 | independent-payers | 2 | 0.750 | insufficient windows |
-| 9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY | 26.10.4 | independent-payers | 2 | 0.667 | insufficient windows |
-| DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf | 26.10.5 | independent-payers | 2 | 0.583 | insufficient windows |
+| Validator | Version | Advertised clientId | Locks | Informative windows | Mean price concordance | Exploratory 95% interval |
+|---|---|---|---|---:|---:|---|
+| Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk | 4.3.2 | HarmonicAgave | shared-payer | 2 | 0.833 | insufficient windows |
+| 9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP | 26.10.5 | FireBAM | shared-payer | 2 | 0.750 | insufficient windows |
+| JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b | 26.10.4 | HarmonicFiredancer | shared-payer | 2 | 1.000 | insufficient windows |
+| 9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY | 26.10.4 | Firedancer | shared-payer | 2 | 1.000 | insufficient windows |
+| HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU | 4.3.2 | JitoLabs | shared-payer | 1 | 0.167 | insufficient windows |
+| DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf | 26.10.5 | Firedancer | shared-payer | 2 | 0.500 | insufficient windows |
+| Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk | 4.3.2 | HarmonicAgave | independent-payers | 2 | 0.583 | insufficient windows |
+| HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU | 4.3.2 | JitoLabs | independent-payers | 2 | 0.750 | insufficient windows |
+| JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b | 26.10.4 | HarmonicFiredancer | independent-payers | 2 | 0.750 | insufficient windows |
+| 9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP | 26.10.5 | FireBAM | independent-payers | 2 | 0.750 | insufficient windows |
+| 9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY | 26.10.4 | Firedancer | independent-payers | 2 | 0.667 | insufficient windows |
+| DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf | 26.10.5 | Firedancer | independent-payers | 2 | 0.583 | insufficient windows |
 
 ## Verifiable price inversions
 
@@ -79,6 +81,6 @@ Run npm ci, npm test, then the documented reproduce command against every export
 
 ## Source context and limits
 
-Agave v4.3.2 computes priority from bank reward divided by cost, with integer scaling; a CU-price-only model is incomplete outside a fixed-resource sweep. See [the source review](docs/SOURCE-REVIEW.md) for source links and lock/thread constraints. Gossip versions are exact measurement strata, not verified fork identities. We do not assert that 26.10.4/26.10.5 denote any particular fork or that three strings prove three client families.
+Agave v4.3.2 computes priority from bank reward divided by cost, with integer scaling; a CU-price-only model is incomplete outside a fixed-resource sweep. See [the source review](docs/SOURCE-REVIEW.md) for source links and lock/thread constraints. Where available, advertised clientId is joined from the last successful getClusterNodes snapshot at or before each dispatch; each derived row identifies the raw record and its hash. See [client attribution](docs/CLIENT-ATTRIBUTION.md) for the monitor cross-check and freshness limits. Numeric versions alone do not identify a fork, and advertised IDs do not attest the remote binary or active scheduling mode.
 
-Measurement dates (UTC): 2026-10-28. The intended campaign is entirely after the October 21, 2026 upgrade; check the raw slots and timestamps. Transport path, provider forwarding, packet timing at the leader and internal worker scheduling remain unobserved. Treatment groups were run in sequence, leaving time-varying load as a cross-treatment confound. No global causal scheduler rule or claim of random ordering is established. Larger repeated, interleaved measurements and a second delivery path are the most valuable next experiment.
+Measurement dates (UTC): 2026-10-28. The intended campaign is entirely after the October 21, 2026 upgrade; check the raw slots and timestamps. Transport path, provider forwarding, packet timing at the leader and internal worker scheduling remain unobserved. The baseline used grouped treatments; expanded-v3 interleaves all six conditions in seeded per-validator rounds. The phases remain separate. Time-varying load, route and operator configuration remain possible confounders. No global causal scheduler rule or claim of random ordering is established. Larger repeated, interleaved measurements and a second delivery path are the most valuable next experiment.

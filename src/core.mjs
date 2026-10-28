@@ -54,7 +54,7 @@ export function analyze(rows) {
   const groups = new Map();
   for (const row of rows) {
     if (row.synthetic || row.live !== true || row.onTarget !== true || row.status !== 'finalized' || row.error || !row.version || !Number.isInteger(row.blockIndex)) continue;
-    const key = JSON.stringify([row.validator, row.version, row.slot, row.batch]);
+    const key = JSON.stringify([row.validator, row.version, row.slot, row.batch, row.clientId??null]);
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(row);
   }
@@ -69,4 +69,11 @@ export function analyze(rows) {
     results.push({ stratum: JSON.parse(key), landed: group.length, concordant, discordant, ties });
   }
   return { note: 'Descriptive within-block pairs; correlated pairs are not independent samples. No causal scheduler claim.', groups: results };
+}
+
+export function orderBatches(batches, identity, seed, policy='grouped') {
+  if(policy==='grouped') return [...batches];
+  if(policy!=='interleaved-rounds') throw Error('Unknown batch order');
+  const random=rng((seed ^ parseInt(digest(identity).slice(0,8),16))>>>0);
+  return [...Map.groupBy(batches,b=>b.repeat)].sort((a,b)=>a[0]-b[0]).flatMap(([,round])=>shuffle(round,random));
 }

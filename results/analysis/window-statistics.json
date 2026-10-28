@@ -9,7 +9,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -21,7 +22,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -33,7 +35,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -45,7 +48,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -57,7 +61,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -69,7 +74,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -81,7 +87,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -93,7 +100,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -105,7 +113,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -117,7 +126,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -129,7 +139,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -141,7 +152,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -153,7 +165,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -165,7 +178,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -177,7 +191,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -189,7 +204,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -201,7 +217,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "price",
       "informativeWindows": 1,
@@ -213,7 +230,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 1,
@@ -225,7 +243,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -237,7 +256,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 1,
@@ -249,7 +269,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -261,7 +282,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -273,7 +295,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -285,7 +308,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -297,7 +321,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -309,7 +334,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -321,7 +347,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -333,7 +360,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -345,7 +373,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -357,7 +386,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -369,7 +399,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -381,7 +412,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -393,7 +425,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -405,7 +438,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -417,7 +451,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -429,7 +464,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -441,7 +477,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -453,7 +490,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -465,7 +503,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -477,7 +516,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -489,7 +529,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "price",
       "informativeWindows": 1,
@@ -501,7 +542,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -513,7 +555,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "units",
       "informativeWindows": 1,
@@ -525,7 +568,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 1,
@@ -537,7 +581,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -549,7 +594,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -561,7 +607,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -573,7 +620,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -585,7 +633,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -597,7 +646,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -609,7 +659,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -621,7 +672,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicAgave"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -633,7 +685,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -645,7 +698,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -657,7 +711,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -669,7 +724,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -681,7 +737,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -693,7 +750,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -705,7 +763,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -717,7 +776,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "price"
+        "price",
+        "JitoLabs"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -729,7 +789,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -741,7 +802,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -753,7 +815,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -765,7 +828,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -777,7 +841,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -789,7 +854,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -801,7 +867,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -813,7 +880,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicAgave"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -825,7 +893,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -837,7 +906,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -849,7 +919,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -861,7 +932,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -873,7 +945,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -885,7 +958,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -897,7 +971,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -909,7 +984,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -921,7 +997,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -933,7 +1010,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -945,7 +1023,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -957,7 +1036,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "limit"
+        "limit",
+        "JitoLabs"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -969,7 +1049,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -981,7 +1062,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -993,7 +1075,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -1005,7 +1088,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "HarmonicFiredancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1017,7 +1101,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1029,7 +1114,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -1041,7 +1127,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1053,7 +1140,8 @@
         "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicAgave"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1065,7 +1153,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -1077,7 +1166,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1089,7 +1179,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1101,7 +1192,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "HarmonicFiredancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1113,7 +1205,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1125,7 +1218,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -1137,7 +1231,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1149,7 +1244,8 @@
         "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
         "4.3.2",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "JitoLabs"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1161,7 +1257,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1173,7 +1270,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -1185,7 +1283,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1197,7 +1296,8 @@
         "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "HarmonicFiredancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1209,7 +1309,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -1221,7 +1322,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1233,7 +1335,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1245,7 +1348,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1257,7 +1361,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1269,7 +1374,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1281,7 +1387,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -1293,7 +1400,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "FireBAM"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1305,7 +1413,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1317,7 +1426,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1329,7 +1439,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -1341,7 +1452,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1353,7 +1465,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -1365,7 +1478,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1377,7 +1491,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1389,7 +1504,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1401,7 +1517,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1413,7 +1530,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -1425,7 +1543,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1437,7 +1556,8 @@
         "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
         "26.10.4",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1449,7 +1569,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -1461,7 +1582,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1473,7 +1595,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1485,7 +1608,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "FireBAM"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1497,7 +1621,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1509,7 +1634,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -1521,7 +1647,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1533,7 +1660,8 @@
         "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "FireBAM"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1545,7 +1673,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1557,7 +1686,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -1569,7 +1699,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1581,7 +1712,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "shared-payer",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1593,7 +1725,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1605,7 +1738,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1617,7 +1751,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 0,
@@ -1629,7 +1764,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "price"
+        "price",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1641,7 +1777,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 0,
@@ -1653,7 +1790,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 2,
@@ -1665,7 +1803,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1677,7 +1816,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "limit"
+        "limit",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,
@@ -1689,7 +1829,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "price",
       "informativeWindows": 2,
@@ -1701,7 +1842,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "priorityLamports",
       "informativeWindows": 0,
@@ -1713,7 +1855,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "units",
       "informativeWindows": 2,
@@ -1725,7 +1868,8 @@
         "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
         "26.10.5",
         "independent-payers",
-        "equal-fee"
+        "equal-fee",
+        "Firedancer"
       ],
       "predictor": "sendOrder",
       "informativeWindows": 2,

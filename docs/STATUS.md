@@ -28,3 +28,7 @@ Dry-run completed after timing correction: 8 signed probes across 2 leader windo
 ## Completed campaign
 
 All 288 primary probes finalized: 280 on-target, 8 off-target, 0 failed, 0 unresolved. Six identities, three exact version strings, 12 attempted batches per identity. Primary fees 1,538,880 lamports; pilot 44,440; total 1,583,320, exactly matching reservations. Three main datasets, pilot, discovery and accounting exported with integrity manifests. Final report explicitly withholds causal scheduler claims and intervals with fewer than five informative windows.
+
+## Strengthening requested 2026-10-28
+
+User requested 12 repeats and explicit client/fork attribution, then authorized background continuation with notification only once data and report are ready. Expanded-v3 is running (data/21d977ce-c0cd-4081-b8a2-bc8b5d876465), using seeded interleaved rounds and the same cumulative budget. The baseline raw data is immutable. Temporal clientId attribution now covers all 280 baseline on-target probes, maximum snapshot query age 1,333 ms, with five advertised variants. The source mapping and dated monitor discrepancy are documented in CLIENT-ATTRIBUTION.md. Final expanded counts and inference are pending collection; no completion claim is made yet.

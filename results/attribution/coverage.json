@@ -1,0 +1,37 @@
+[
+  {
+    "run": "main-01",
+    "rows": 216,
+    "attributedOnTarget": 208,
+    "unattributedOnTarget": 0,
+    "clientIds": [
+      "HarmonicAgave",
+      "FireBAM",
+      "HarmonicFiredancer",
+      "Firedancer",
+      "JitoLabs"
+    ],
+    "maxSnapshotAgeMs": 1333
+  },
+  {
+    "run": "main-02",
+    "rows": 48,
+    "attributedOnTarget": 48,
+    "unattributedOnTarget": 0,
+    "clientIds": [
+      "Firedancer",
+      "FireBAM"
+    ],
+    "maxSnapshotAgeMs": 882
+  },
+  {
+    "run": "main-03",
+    "rows": 24,
+    "attributedOnTarget": 24,
+    "unattributedOnTarget": 0,
+    "clientIds": [
+      "Firedancer"
+    ],
+    "maxSnapshotAgeMs": 1198
+  }
+]

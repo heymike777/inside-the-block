@@ -3,3 +3,6 @@ node_modules/
 secrets/
 data/*
 !data/.gitkeep
+
+# Local state for the requested background continuation
+docs/BACKGROUND-HANDOFF.md

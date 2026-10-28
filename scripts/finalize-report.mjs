@@ -3,8 +3,10 @@ import {gunzipSync} from 'node:zlib';
 import {report} from '../src/report.mjs';
 import {narrative} from '../src/narrative.mjs';
 import {plan} from '../src/core.mjs';
+import {attributeRun} from '../src/attribution.mjs';
 const directories=readdirSync('results',{withFileTypes:true}).filter(d=>d.isDirectory()&&d.name.startsWith('main-')).map(d=>`results/${d.name}`).sort();
-const files=directories.map(d=>`${d}/observations.jsonl`);
+mkdirSync('data',{recursive:true});
+const files=[];for(const dir of directories){const path=`data/${dir.split('/').at(-1)}.attributed.jsonl`;await attributeRun(dir,path);files.push(path);}
 const readRows=p=>readFileSync(p,'utf8').trim().split('\n').filter(Boolean).map(JSON.parse);
 const main=files.flatMap(readRows),pilot=readRows('results/pilot-v1/observations.jsonl');
 if(new Set(main.map(r=>r.signature)).size!==main.length)throw Error('Duplicate primary signatures');

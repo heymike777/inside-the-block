@@ -1,0 +1,41 @@
+{
+  "sourceRun": "derived-client-attribution",
+  "exportedAt": "2026-10-28T18:33:40.020Z",
+  "files": [
+    {
+      "file": "coverage.json",
+      "originalBytes": 653,
+      "storedBytes": 653,
+      "sha256Original": "6da34970acc87bed99c9d68bc7626db8c2f06dde98f050f1b682276b4adc012a",
+      "sha256Stored": "6da34970acc87bed99c9d68bc7626db8c2f06dde98f050f1b682276b4adc012a"
+    },
+    {
+      "file": "main-01.jsonl",
+      "originalBytes": 254605,
+      "storedBytes": 254605,
+      "sha256Original": "ec01b097037b9aeb5b4e5615f1d0be05318cd052f4b819cdca1f026f6b48a824",
+      "sha256Stored": "ec01b097037b9aeb5b4e5615f1d0be05318cd052f4b819cdca1f026f6b48a824"
+    },
+    {
+      "file": "main-02.jsonl",
+      "originalBytes": 56727,
+      "storedBytes": 56727,
+      "sha256Original": "3ce6854c1f875f9cfdcaef3e786603422b20b65c85f52274b6b4e08ce46872ba",
+      "sha256Stored": "3ce6854c1f875f9cfdcaef3e786603422b20b65c85f52274b6b4e08ce46872ba"
+    },
+    {
+      "file": "main-03.jsonl",
+      "originalBytes": 28434,
+      "storedBytes": 28434,
+      "sha256Original": "a5dbd86f8e0e20f8366a9555aa495d3701d313906dce9a077ee3a9d1087f4a3a",
+      "sha256Stored": "a5dbd86f8e0e20f8366a9555aa495d3701d313906dce9a077ee3a9d1087f4a3a"
+    },
+    {
+      "file": "validator-clients.json",
+      "originalBytes": 3989,
+      "storedBytes": 3989,
+      "sha256Original": "06be1a31e84f633a5a1d5eb470a64dd085ff6f4911bc34ce0d5248d5c679b066",
+      "sha256Stored": "06be1a31e84f633a5a1d5eb470a64dd085ff6f4911bc34ce0d5248d5c679b066"
+    }
+  ]
+}

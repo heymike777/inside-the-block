@@ -4,7 +4,7 @@ export function windowStatistics(rows, iterations=2000, seed=20261028) {
   const strata=new Map();
   for(const r of rows) {
     if(r.live!==true || r.onTarget!==true || r.status!=='finalized' || r.error || !r.version || !Number.isInteger(r.blockIndex)) continue;
-    const key=JSON.stringify([r.validator,r.version,r.locks,r.treatment]);
+    const key=JSON.stringify([r.validator,r.version,r.locks,r.treatment,r.clientId??null]);
     if(!strata.has(key)) strata.set(key,new Map());
     const windows=strata.get(key), id=JSON.stringify([r.runId??'',r.targetSlot,r.batch]);
     if(!windows.has(id)) windows.set(id,[]);

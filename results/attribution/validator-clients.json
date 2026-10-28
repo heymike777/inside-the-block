@@ -1,0 +1,102 @@
+{
+  "source": {
+    "url": "https://reports.firedancer.io/api/report?cluster=mainnet&period=daily",
+    "retrievedAt": "2026-10-28T18:20:36.604Z",
+    "status": 200
+  },
+  "monitorTimestampNanoseconds": "1793151297095802556",
+  "rows": [
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "name": "Figment",
+      "version": "4.3.2",
+      "clientId": "HarmonicAgave",
+      "monitorClient": "Agave Harmonic",
+      "monitorVersion": "4.3.2",
+      "monitorReportDate": "2026-10-27",
+      "monitorVersionMatches": true,
+      "gossipObservedAt": "2026-10-28T18:21:55.593Z",
+      "confidence": "Advertised client ID observed contemporaneously; monitor classification is dated corroboration, not binary attestation"
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "name": "Helius",
+      "version": "4.3.2",
+      "clientId": "JitoLabs",
+      "monitorClient": "Agave Jito",
+      "monitorVersion": "4.3.2",
+      "monitorReportDate": "2026-10-27",
+      "monitorVersionMatches": true,
+      "gossipObservedAt": "2026-10-28T18:21:55.593Z",
+      "confidence": "Advertised client ID observed contemporaneously; monitor classification is dated corroboration, not binary attestation"
+    },
+    {
+      "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "name": "Jupiter",
+      "version": "26.10.4",
+      "clientId": "HarmonicFiredancer",
+      "monitorClient": "Firedancer Harmonic",
+      "monitorVersion": "26.10.4",
+      "monitorReportDate": "2026-10-27",
+      "monitorVersionMatches": true,
+      "gossipObservedAt": "2026-10-28T18:21:55.593Z",
+      "confidence": "Advertised client ID observed contemporaneously; monitor classification is dated corroboration, not binary attestation"
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "name": "Galaxy",
+      "version": "26.10.4",
+      "clientId": "Firedancer",
+      "monitorClient": "Firedancer Jito",
+      "monitorVersion": "26.10.4",
+      "monitorReportDate": "2026-10-27",
+      "monitorVersionMatches": true,
+      "gossipObservedAt": "2026-10-28T18:21:55.593Z",
+      "confidence": "Advertised client ID observed contemporaneously; monitor classification is dated corroboration, not binary attestation"
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "name": null,
+      "version": "26.10.5",
+      "clientId": "FireBAM",
+      "monitorClient": "Firedancer JitoBAM",
+      "monitorVersion": "26.10.4",
+      "monitorReportDate": "2026-10-27",
+      "monitorVersionMatches": false,
+      "gossipObservedAt": "2026-10-28T18:21:55.593Z",
+      "confidence": "Advertised client ID observed contemporaneously; monitor classification is dated corroboration, not binary attestation"
+    },
+    {
+      "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+      "name": "Firedancer Development",
+      "version": "26.10.5",
+      "clientId": "Firedancer",
+      "monitorClient": "Firedancer Jito",
+      "monitorVersion": "26.10.5",
+      "monitorReportDate": "2026-10-27",
+      "monitorVersionMatches": true,
+      "gossipObservedAt": "2026-10-28T18:21:55.593Z",
+      "confidence": "Advertised client ID observed contemporaneously; monitor classification is dated corroboration, not binary attestation"
+    }
+  ],
+  "rawResponseSha256": "ea579de41e9c114fac18af5f0c1f0d28e62610b0ee3ba3b31a3d488a9b9d1264",
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/anza-xyz/agave/v4.3.2/version/src/client_ids.rs",
+      "sha256": "db1037a44a5b3a89eb6b39aec6ee8ba0422329bca2d30fbc06cc98f0e120fe62"
+    },
+    {
+      "url": "https://github.com/anza-xyz/agave/blob/v4.3.2/CHANGELOG.md",
+      "sha256": "e3be71bbef996c793114b045541f32ed9525759f245d664d145e87df75d102dc"
+    },
+    {
+      "url": "https://bam.dev/validators/"
+    },
+    {
+      "url": "https://github.com/harmonic/salsa"
+    },
+    {
+      "url": "https://github.com/harmonic/samba"
+    }
+  ]
+}

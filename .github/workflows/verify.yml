@@ -16,3 +16,5 @@ jobs:
       - run: npm run demo
       - run: docker compose run --rm --build experiment
       - run: docker compose run --rm experiment reproduce-all /app/results
+      - if: hashFiles('results/expanded-*/manifest.json') != ''
+        run: docker compose run --rm experiment expanded-reproduce /app/results

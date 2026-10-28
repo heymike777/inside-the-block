@@ -1,5 +1,7 @@
 # Inside the Block
 
+> **Expansion in progress (2026-10-28):** a separate 12-repeat confirmation campaign is running with interleaved conditions. The completed 288-probe baseline remains below. [Client attribution](docs/CLIENT-ATTRIBUTION.md) now reconstructs advertised clientId from measurement-time gossip: five variants are observed, corroborated by a dated monitor. Expanded results will be published after collection and verification.
+
 Reproducible Solana mainnet transaction-ordering experiment for the [Superteam Ukraine bounty](https://superteam.fun/earn/listing/inside-the-block-how-solana-validators-order-transactions/).
 
 **Status: completed mainnet campaign, measured on 2026-10-28.** The default command never submits transactions. Synthetic/demo output is never evidence. Mainnet transactions cost SOL only with the explicit `run … --live` flag and four locally mounted keypairs.
@@ -114,3 +116,13 @@ docker compose run --rm --build experiment reproduce /app/results/main
 ```
 
 Export compresses RPC logs and block files losslessly and records original/stored SHA-256 hashes in `integrity.json`. The offline verifier reads plain or gzip blocks. There is no network call or live submission in `reproduce`. If a campaign spans multiple runs, export each run separately and pass all observation files to `report`; never combine pilot and main phases.
+
+## Expanded confirmation series
+
+`expanded.config.json` defines 12 repeats per condition (1,728 new probes), using the same six identities and persistent cumulative fee journal. Each validator receives seeded randomized ordering of all six conditions in every round. There is still one four-probe batch per contiguous leader window. This improves repetition and temporal balance without adding cross-batch competition within a window. The original grouped main-v2 baseline and interleaved expanded-v3 series are analyzed separately.
+
+The validator client is now derived from `clientId` in the last successful `getClusterNodes` snapshot before dispatch, with raw-record hashes and timestamps. Read [the evidence and confidence levels](docs/CLIENT-ATTRIBUTION.md). Snapshot query time is not remote-binary attestation; fork labels do not prove an active external-builder mode.
+
+Large exported RPC logs use numbered gzip fragments of at most 32 MiB original bytes. `integrity.json` lists their order, part hashes and reconstructed-log hash. The fragments can cross JSON/UTF-8 boundaries: concatenate their decompressed bytes before parsing. The built-in reader and integrity check do this automatically.
+
+After expanded datasets are published, replay them with `node src/cli.mjs expanded-reproduce results` or the equivalent Docker command. The collector uses 128-signature status batches and retains only probe metadata in memory; full blocks remain raw evidence on disk.

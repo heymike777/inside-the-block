@@ -1,0 +1,41 @@
+{
+  "seed": 2026102801,
+  "repeats": 12,
+  "maxWaitSeconds": 14400,
+  "capLamports": 49000000,
+  "phase": "expanded-v3",
+  "sendMode": "burst",
+  "targets": [
+    {
+      "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+      "version": "4.3.2",
+      "clientId": "HarmonicAgave"
+    },
+    {
+      "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+      "version": "4.3.2",
+      "clientId": "JitoLabs"
+    },
+    {
+      "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+      "version": "26.10.4",
+      "clientId": "HarmonicFiredancer"
+    },
+    {
+      "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+      "version": "26.10.4",
+      "clientId": "Firedancer"
+    },
+    {
+      "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+      "version": "26.10.5",
+      "clientId": "FireBAM"
+    },
+    {
+      "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+      "version": "26.10.5",
+      "clientId": "Firedancer"
+    }
+  ],
+  "batchOrder": "interleaved-rounds"
+}

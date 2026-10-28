@@ -1,3 +1,4 @@
+import {rpcRecords} from '../src/logs.mjs';
 import {execFileSync} from 'node:child_process';
 import {readFileSync,existsSync,readdirSync} from 'node:fs';
 import {gunzipSync} from 'node:zlib';
@@ -12,5 +13,9 @@ for(const file of files){
  if(!existsSync(file))continue;
  const bytes=readFileSync(file);const body=(file.endsWith('.gz')?gunzipSync(bytes):bytes).toString('utf8');
  if(needles.some(secret=>body.includes(secret)))throw Error(`Sensitive local value found in ${file}`);
+}
+if(needles.length) for(const file of files.filter(f=>f.endsWith('/integrity.json'))){
+ const manifest=JSON.parse(readFileSync(file,'utf8'));const dir=file.slice(0,-'/integrity.json'.length);
+ for(const group of manifest.reconstructedLogs??[])for await(const {line}of rpcRecords(dir,group.originalFile))if(needles.some(secret=>line.includes(secret)))throw Error(`Sensitive local value found across chunks of ${dir}/${group.originalFile}`);
 }
 console.log(`Reviewed ${files.length} tracked paths; no local RPC endpoint or key files found in public contents.`);

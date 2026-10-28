@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Evidence hashes require byte-identical checkout, including on Windows.
+results/** -text

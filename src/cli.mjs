@@ -12,7 +12,11 @@ try {
     save('plan.json', { seed: 20261028, batches, transactionsPerValidator: batches.length * 4, minimumValidators: 6, minimumVersionStrings: 3, hash: digest(batches) });
     if (command === 'demo') save('demo-analysis.json', analyze([{ synthetic: true, price: 10, blockIndex: 0 }]));
     console.log(`Saved deterministic ${batches.length}-batch plan. No transactions sent.`);
-  } else if (command === 'reproduce-all') {
+  } else if (command === 'attribute') {
+    const {attributeRun}=await import('./attribution.mjs');
+    const rows=await attributeRun(input,`${out}/client-attribution.jsonl`);
+    console.log(`Attributed ${rows.filter(r=>r.clientId).length} of ${rows.length} observations from contemporaneous gossip.`);
+  } else if (command === 'reproduce-all' || command === 'expanded-reproduce') {
     if (!input) throw Error('Usage: reproduce-all results');
     const {integrity} = await import('./integrity.mjs');
     const {verify} = await import('./verify.mjs');
@@ -21,10 +25,12 @@ try {
     const {narrative} = await import('./narrative.mjs');
     const allDirectories = readdirSync(input,{withFileTypes:true}).filter(d=>d.isDirectory()).map(d=>`${input}/${d.name}`).sort();
     for(const dir of allDirectories) if(existsSync(`${dir}/integrity.json`)) integrity(dir);
-    const directories=allDirectories.filter(dir=>dir.split('/').at(-1).startsWith('main-'));
+    const prefix=command==='expanded-reproduce'?'expanded-':'main-';
+    const directories=allDirectories.filter(dir=>dir.split('/').at(-1).startsWith(prefix));
     if (!directories.length) throw Error('No main datasets found');
     for (const dir of directories) {verify(dir);context(dir);}
-    const files=directories.map(d=>`${d}/observations.jsonl`);
+    const {attributeRun}=await import('./attribution.mjs');
+    const files=[];for(const dir of directories){const file=`${out}/${dir.split('/').at(-1)}.attributed.jsonl`;await attributeRun(dir,file);files.push(file);}
     report(files,out);narrative(files,`${out}/REPORT.md`);
   } else if (command === 'narrative') {
     const {narrative} = await import('./narrative.mjs');

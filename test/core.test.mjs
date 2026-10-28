@@ -36,3 +36,12 @@ test('analysis never pools validators, versions, blocks or failed transactions',
   assert.equal(result.groups[0].concordant,1);
   assert.equal(result.groups[0].discordant,0);
 });
+
+test('interleaving balances each round and is deterministic per validator',async()=>{
+ const {orderBatches}=await import('../src/core.mjs');const batches=plan(123,12);
+ const ordered=orderBatches(batches,'validator-a',123,'interleaved-rounds');
+ assert.equal(ordered.length,72);assert.equal(new Set(ordered.map(b=>b.id)).size,72);
+ for(let i=0;i<12;i++){const round=ordered.slice(i*6,i*6+6);assert.ok(round.every(b=>b.repeat===i));assert.equal(new Set(round.map(b=>`${b.locks}:${b.treatment}`)).size,6);}
+ assert.deepEqual(ordered,orderBatches(batches,'validator-a',123,'interleaved-rounds'));
+ assert.notDeepEqual(ordered,orderBatches(batches,'validator-b',123,'interleaved-rounds'));
+});
