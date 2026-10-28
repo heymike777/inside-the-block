@@ -1,0 +1,10 @@
+{"at":"2026-10-28T14:47:29.455Z","type":"rpc-accepted","signature":"3CLKWkD9xBbuZ5qSxhK4a5f135zKVdbyqy2E3bYGye9JvarixxFLRpXzTVfU3iFByh4i4aaQPadNQJUa3552je4E","ackMs":44993.501084}
+{"at":"2026-10-28T14:47:29.516Z","type":"rpc-accepted","signature":"65kLFzeaxg6WBH8Xxjn7zJsVpFHVRjojzxw4AexWro4F6RiDweNkYD72rqRXgtb7mxftTa4nt5v5qaLPWDyYcnDG","ackMs":45054.353084}
+{"at":"2026-10-28T14:47:29.712Z","type":"rpc-accepted","signature":"2aaBAHtcMNLMbrKLUZJhj8svgFgkh5kcvMrhDZRcXqibZ9VcCZvS8W9mxY9JoFibMJpWHpWtfs3SyHD1HuiEZoEs","ackMs":45251.041167}
+{"at":"2026-10-28T14:47:29.816Z","type":"rpc-accepted","signature":"2swEjjwsyMhWc8z9BN5D8KwCLmo5Etd5wRPBqVUgm1LHDzqXncTcV42fKBV9k8EjRJ1F1iRfuBG6fncpqnWJnifi","ackMs":45354.505125}
+{"at":"2026-10-28T14:47:29.816Z","type":"batch-finished","batch":"shared-payer-price-0","slot":462515480,"endSlot":462515483,"identity":"JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB","version":"26.10.4","reservedLamports":22220}
+{"at":"2026-10-28T14:47:32.944Z","type":"rpc-accepted","signature":"68QKBsaLFeFMiUNnewWMHYFs7cHEXJYgYPoprc8EiWVkX3DBNkGRVDtKQx1t8usiLRCKv7EuxbUg14DzzcRQaS9","ackMs":48482.842459}
+{"at":"2026-10-28T14:47:33.052Z","type":"rpc-accepted","signature":"56L1DyXFDhuJmHVbroVQh8NvKdTGSMNGqsdAUmnhCHH1LizekPcLYxnK2pesX7KieDhrV6DX63bcYDUkbN11j7Zf","ackMs":48590.814417}
+{"at":"2026-10-28T14:47:33.094Z","type":"rpc-accepted","signature":"PCGGjCSfJ4owvYsbJuKE3EHNg4qfeqhLrVoH7yVNF1ZyP5yhpDoWFkTwy9opuqmXnTT99dg8ttfWnmqug8heMyZ","ackMs":48632.767042}
+{"at":"2026-10-28T14:47:33.137Z","type":"rpc-accepted","signature":"2rQn8nB7vEN7PEd79JkdemjGgHsGqQ1zFAadvoLdmyZYHEZ9UZz2TEU5YSjN2E83ga1pbdDqHKc5guhoEh7mpHZw","ackMs":48676.286125}
+{"at":"2026-10-28T14:47:33.138Z","type":"batch-finished","batch":"shared-payer-price-0","slot":462515496,"endSlot":462515499,"identity":"EkvdKhULbMFqjKBKotAzGi3kwMvMpYNDKJXXQQmi6C1f","version":"4.3.2","reservedLamports":44440}

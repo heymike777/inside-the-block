@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync, appendFileSync, readFileSync, readdirSync } from 'node:fs';
+import { mkdirSync, writeFileSync, appendFileSync, readFileSync, readdirSync, existsSync } from 'node:fs';
 import { plan, analyze, MAINNET_GENESIS, digest } from './core.mjs';
 import { rpcClient } from './rpc.mjs';
 const [command = 'plan', input] = process.argv.slice(2);
@@ -19,9 +19,11 @@ try {
     const {context} = await import('./context.mjs');
     const {report} = await import('./report.mjs');
     const {narrative} = await import('./narrative.mjs');
-    const directories = readdirSync(input,{withFileTypes:true}).filter(d=>d.isDirectory()&&d.name.startsWith('main-')).map(d=>`${input}/${d.name}`).sort();
+    const allDirectories = readdirSync(input,{withFileTypes:true}).filter(d=>d.isDirectory()).map(d=>`${input}/${d.name}`).sort();
+    for(const dir of allDirectories) if(existsSync(`${dir}/integrity.json`)) integrity(dir);
+    const directories=allDirectories.filter(dir=>dir.split('/').at(-1).startsWith('main-'));
     if (!directories.length) throw Error('No main datasets found');
-    for (const dir of directories) {integrity(dir);verify(dir);context(dir);}
+    for (const dir of directories) {verify(dir);context(dir);}
     const files=directories.map(d=>`${d}/observations.jsonl`);
     report(files,out);narrative(files,`${out}/REPORT.md`);
   } else if (command === 'narrative') {

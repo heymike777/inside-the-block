@@ -20,3 +20,11 @@ Dry-run completed after timing correction: 8 signed probes across 2 leader windo
 - Main v2 run 1378aaaf-b2b5-48bf-bd7c-54ae8c8c8ed1: 216 submitted and finalized transactions, 1,158,520 lamports, six identities / three exact versions. Losslessly exported to results/main-01 with hashes; offline verification passed.
 - Continuation e7faec4d-8e7e-4689-87cf-31efd4862e15 resumes only unattempted batches under the same journal. Complete planned v2 campaign: 288 transactions, 12 four-probe batches per validator.
 - Exploratory confidence intervals are withheld below five informative windows; the current two-repeat cells support descriptive summaries only.
+
+- Main v2 continuation e7faec4d-8e7e-4689-87cf-31efd4862e15 finalized 48 additional probes. A read-only collection request returned HTTP 502; a later read completed successfully. No transaction was resent. Main-02 exported after successful final collection; an earlier incomplete local preview is retained only under ignored data/.
+- Final continuation 4176cb53-e1fe-4aa3-beb8-5fa4e835fb67 contains only the last six independent-payer batches of the sixth validator.
+- GitHub CI run 40712608727 verified Docker build, dry-run, tests and replay successfully.
+
+## Completed campaign
+
+All 288 primary probes finalized: 280 on-target, 8 off-target, 0 failed, 0 unresolved. Six identities, three exact version strings, 12 attempted batches per identity. Primary fees 1,538,880 lamports; pilot 44,440; total 1,583,320, exactly matching reservations. Three main datasets, pilot, discovery and accounting exported with integrity manifests. Final report explicitly withholds causal scheduler claims and intervals with fewer than five informative windows.

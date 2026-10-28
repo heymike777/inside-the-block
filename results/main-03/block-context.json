@@ -1,0 +1,326 @@
+[
+  {
+    "slot": 462524809,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793200841,
+    "transactionCount": 537,
+    "failedTransactions": 173,
+    "totalFees": 8280278,
+    "reportedComputeUnits": 20570591,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "529swfATgThPLoEs65J5pKSaVHVAqrKVvy2hC2NJZzv9otLWgE3byCfSMbFwYy2htLpLYjobgQT9oE7UGEopANUT",
+        "index": 337,
+        "relativePosition": 0.628731343283582,
+        "treatment": "price",
+        "units": 20000,
+        "price": 0,
+        "dispatchOrder": 0
+      },
+      {
+        "signature": "4raFhevzUue69JdfqZpkc3F8VnsowW5WcaMxgzT97GpcfuVpJbd3HwbhiFKKBZNLj9CoGLPPgrrr2gv6U95QgpuM",
+        "index": 419,
+        "relativePosition": 0.7817164179104478,
+        "treatment": "price",
+        "units": 20000,
+        "price": 1000,
+        "dispatchOrder": 1
+      },
+      {
+        "signature": "MwRUzBjfaewZZ9fZauNAWVPoNUCpeV2dsHyTMRsnnwAUfL5DFnZknTJPnvvNjzEHWfm9EkkASaKHbe7m8ZyPAvF",
+        "index": 385,
+        "relativePosition": 0.7182835820895522,
+        "treatment": "price",
+        "units": 20000,
+        "price": 10000,
+        "dispatchOrder": 2
+      },
+      {
+        "signature": "47aEX1jP7762QvCKbmWb7WB2g9kLqYrHKUVwsu1uD32JUkpgZVo5D12S7xc3bkiBSpqu7AQitZXZzFGVVZswZqM",
+        "index": 381,
+        "relativePosition": 0.710820895522388,
+        "treatment": "price",
+        "units": 20000,
+        "price": 100000,
+        "dispatchOrder": 3
+      }
+    ]
+  },
+  {
+    "slot": 462525054,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793200893,
+    "transactionCount": 302,
+    "failedTransactions": 79,
+    "totalFees": 5202265,
+    "reportedComputeUnits": 11194240,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "5pp9cPHpFEoWYU36gYcqRnKab3nNn61dfJD4KJYXDJuEYfWsf9gYQ3c8ELRzKg4pqaYe714ktBmhHfDc1PgffxYV",
+        "index": 16,
+        "relativePosition": 0.053156146179401995,
+        "treatment": "price",
+        "units": 20000,
+        "price": 10000,
+        "dispatchOrder": 0
+      },
+      {
+        "signature": "2AwVGHcFyWEknRzmDCUN4wVu1kdyiUtBhRDYkmXvWunoZNmNUZoiFBb2TiTvcGWycKtuwBa9kStwgRYWo3DUZ9Q9",
+        "index": 54,
+        "relativePosition": 0.17940199335548174,
+        "treatment": "price",
+        "units": 20000,
+        "price": 0,
+        "dispatchOrder": 1
+      },
+      {
+        "signature": "4fFbwnc4XmNLJfCttCfY7Rr3cdCmENYPHpdjRMEBPUQSSSTrTPFkxeD8eJaktPTEGfhnym9z2e5WjKsYfaF7TAwR",
+        "index": 46,
+        "relativePosition": 0.15282392026578073,
+        "treatment": "price",
+        "units": 20000,
+        "price": 100000,
+        "dispatchOrder": 2
+      },
+      {
+        "signature": "5Ckb7n75TV82k63NeLYHxk1fdNRvLgSWRiXb4FqTEsPyRoZB7wAErconHzRNka9Luv2RqmHNVfX3HCsh1fWvYFQE",
+        "index": 126,
+        "relativePosition": 0.4186046511627907,
+        "treatment": "price",
+        "units": 20000,
+        "price": 1000,
+        "dispatchOrder": 3
+      }
+    ]
+  },
+  {
+    "slot": 462525481,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793200985,
+    "transactionCount": 328,
+    "failedTransactions": 94,
+    "totalFees": 3577496,
+    "reportedComputeUnits": 10286612,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "5MHyZnb1rz4L5H3CDxLWFWSju1Hjex6MmHHzjb3kbHBLFNRsziSnBth69TRr4cD7bd56bQ3x9mM9hvSLdipAwXn",
+        "index": 234,
+        "relativePosition": 0.7155963302752294,
+        "treatment": "limit",
+        "units": 20000,
+        "price": 10000,
+        "dispatchOrder": 0
+      },
+      {
+        "signature": "2LHNf4BiUUu8eep9pqp9HGhxkJxNEP3oCJchM4Xd8X7A7ArjvbjVRL8B4gNFrAdTwCv7UNyKanR4iBdcPQPzVFMN",
+        "index": 263,
+        "relativePosition": 0.8042813455657493,
+        "treatment": "limit",
+        "units": 40000,
+        "price": 10000,
+        "dispatchOrder": 1
+      },
+      {
+        "signature": "5LrgYZuQFXaNGrzkyTm2oZmsrs7ciDDS93wST5SHRCjw4yGqRVfadwi6nbe7DWv8bPH7q8TBfLpNBkiMXaAbTjK1",
+        "index": 325,
+        "relativePosition": 0.9938837920489296,
+        "treatment": "limit",
+        "units": 80000,
+        "price": 10000,
+        "dispatchOrder": 2
+      }
+    ]
+  },
+  {
+    "slot": 462525482,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793200985,
+    "transactionCount": 319,
+    "failedTransactions": 108,
+    "totalFees": 7640732,
+    "reportedComputeUnits": 12711433,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "33Pcyh49uvkC1v4gsg58V1gDPpVN57YKwVicJWprZ8yrB6TkgJfeQiYM35Dn13QSXhf4oX5nUvtwUNyd5JsRiYZ4",
+        "index": 2,
+        "relativePosition": 0.006289308176100629,
+        "treatment": "limit",
+        "units": 10000,
+        "price": 10000,
+        "dispatchOrder": 3
+      }
+    ]
+  },
+  {
+    "slot": 462526049,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793201106,
+    "transactionCount": 283,
+    "failedTransactions": 65,
+    "totalFees": 10712581,
+    "reportedComputeUnits": 13469163,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "aeU6AS1kLDwzHAzjVHdJonA25KH9R1GZXyxsLsN6RPXGxheLTpDfU5uekNwDLMHVbtYaArwjxsFJNcP3588PxJt",
+        "index": 224,
+        "relativePosition": 0.7943262411347518,
+        "treatment": "limit",
+        "units": 20000,
+        "price": 10000,
+        "dispatchOrder": 0
+      },
+      {
+        "signature": "2ZCMX5EmURbSAfNQQ2R3YvBKUqjSPmqmwzG4sbxcv9PZFVCrJr6Z5r3WmzoP1NizoTfZyD3jdLZmn6YBBH52ozKi",
+        "index": 270,
+        "relativePosition": 0.9574468085106383,
+        "treatment": "limit",
+        "units": 80000,
+        "price": 10000,
+        "dispatchOrder": 2
+      },
+      {
+        "signature": "3FWLgB4Ra6Tbc6hLjnq2KL9sMayLnF5gBP8sCXUDPF5Nz9v8AjW4ri4AKfBi7TfokWZh2c9yAYiC3ZafneqSXErW",
+        "index": 279,
+        "relativePosition": 0.9893617021276596,
+        "treatment": "limit",
+        "units": 40000,
+        "price": 10000,
+        "dispatchOrder": 3
+      }
+    ]
+  },
+  {
+    "slot": 462526050,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793201106,
+    "transactionCount": 306,
+    "failedTransactions": 103,
+    "totalFees": 21902304,
+    "reportedComputeUnits": 18756939,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "z76Ua8TU5k3WVShrxmj9aJKrd4kbhG4NRVxYgWY2yvU2tZb1EZJBuvPhE6wEc6gG7gcgxkpTES1tRzn5WZWKyUm",
+        "index": 55,
+        "relativePosition": 0.18032786885245902,
+        "treatment": "limit",
+        "units": 10000,
+        "price": 10000,
+        "dispatchOrder": 1
+      }
+    ]
+  },
+  {
+    "slot": 462526385,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793201177,
+    "transactionCount": 507,
+    "failedTransactions": 205,
+    "totalFees": 11627789,
+    "reportedComputeUnits": 21761855,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "i9ooc6WSH9BVc8Tkmje6o5M7fhGqLow2wUcw9vDW4524S2fvDmBVrY1DdF5Eor7g4FWyrSJwfrLz1gEkSVTyzBY",
+        "index": 326,
+        "relativePosition": 0.6442687747035574,
+        "treatment": "equal-fee",
+        "units": 80000,
+        "price": 1250,
+        "dispatchOrder": 0
+      },
+      {
+        "signature": "5PtXuguNvMbPjsFnLuCQ4u3TdtdHy7A5gLvPppHdt6eNkhEhr58d5Sc3CyW11fctznJRkqZELhPFaFWf7iNJNn5H",
+        "index": 365,
+        "relativePosition": 0.7213438735177866,
+        "treatment": "equal-fee",
+        "units": 10000,
+        "price": 10000,
+        "dispatchOrder": 1
+      },
+      {
+        "signature": "2556TTbzWM95L43DVXFWh5oJcYHdWPkpeZKx6QHW2Z1fTnj1k4AxdA1v933KygKqy9brvg2kwGWR7T6sPA4PvByn",
+        "index": 369,
+        "relativePosition": 0.7292490118577075,
+        "treatment": "equal-fee",
+        "units": 40000,
+        "price": 2500,
+        "dispatchOrder": 2
+      },
+      {
+        "signature": "4y4ecZmwjJBzAdLHoLsHVadh19h7qCUnPovpdMgicy9GgcKT6PvC3xiojyNic4xykWmk8cBxbh81Gya6FbQSfvra",
+        "index": 392,
+        "relativePosition": 0.7747035573122529,
+        "treatment": "equal-fee",
+        "units": 20000,
+        "price": 5000,
+        "dispatchOrder": 3
+      }
+    ]
+  },
+  {
+    "slot": 462527145,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793201338,
+    "transactionCount": 429,
+    "failedTransactions": 172,
+    "totalFees": 6745857,
+    "reportedComputeUnits": 16114338,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "5UgRFZcMwQAHdBJRbJYDccFoY3iCDpWYu2ubzgb5a9uST5hdyBhn4fQmJ3ghZY6br81aQEJoo5mWLxG4GWmoUvvv",
+        "index": 404,
+        "relativePosition": 0.9439252336448598,
+        "treatment": "equal-fee",
+        "units": 10000,
+        "price": 10000,
+        "dispatchOrder": 0
+      }
+    ]
+  },
+  {
+    "slot": 462527146,
+    "validator": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+    "blockTime": 1793201338,
+    "transactionCount": 425,
+    "failedTransactions": 163,
+    "totalFees": 12691621,
+    "reportedComputeUnits": 14856150,
+    "missingComputeUnits": 0,
+    "probes": [
+      {
+        "signature": "3aKAkCBwmkSFuE1eGWoVzTa97Vf8jXBaTXYcweDzCGQBKjhU1zCAR1LXvGYNidYQezERMMx88cXQ1afGXodVyRvY",
+        "index": 17,
+        "relativePosition": 0.04009433962264151,
+        "treatment": "equal-fee",
+        "units": 20000,
+        "price": 5000,
+        "dispatchOrder": 1
+      },
+      {
+        "signature": "4SjCiQAADwPXmXipBJDXgD4XdVLvnjmdenUR4yvDcwQEoFPbU6GDLYkdsUmXd8oSSXVybNEJ7HXmJEpv9dMEkaiC",
+        "index": 36,
+        "relativePosition": 0.08490566037735849,
+        "treatment": "equal-fee",
+        "units": 80000,
+        "price": 1250,
+        "dispatchOrder": 2
+      },
+      {
+        "signature": "2Y8yWoazWXUAQ2zA4AdPsmF748CPW9GgzBEFbE6KozbXhqYcqX4mLw9Y95VkSeWQuNokxAU9KtcX62aLgQU8Eqtf",
+        "index": 34,
+        "relativePosition": 0.08018867924528301,
+        "treatment": "equal-fee",
+        "units": 40000,
+        "price": 2500,
+        "dispatchOrder": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "runId": "0f1c9bb3-1710-423e-9185-a367ed30cfba",
+  "live": true,
+  "startedAt": "2026-10-28T14:46:45.047Z",
+  "config": {
+    "seed": 20261028,
+    "repeats": 1,
+    "maxWaitSeconds": 120,
+    "capLamports": 49000000,
+    "targets": [
+      {
+        "identity": "EkvdKhULbMFqjKBKotAzGi3kwMvMpYNDKJXXQQmi6C1f",
+        "version": "4.3.2"
+      },
+      {
+        "identity": "GzDfKKoZ6E8ReqKfH96k5bkmA6CEWtnUrQnZjSqW4ZzG",
+        "version": "4.3.2"
+      },
+      {
+        "identity": "JD549HsbJHeEKKUrKgg4Fj2iyv2RGjsV7NTZjZUrHybB",
+        "version": "26.10.4"
+      },
+      {
+        "identity": "43Am3PKFeo9cACpqYL5Sk95rpVdxLw3Mc22PqRqZXEW2",
+        "version": "26.10.4"
+      },
+      {
+        "identity": "dst2u7mXMyDvb14cSErRNA1mxH1d5VXbSXgZ3DKE9xH",
+        "version": "4.4.0-rc.1"
+      },
+      {
+        "identity": "FACb6bbTDRBHCK999V8ox8jga5JBnt1r3vvzmAYAMv2o",
+        "version": "4.4.0-rc.1"
+      }
+    ]
+  },
+  "designHash": "bc277898f6edec3e8eecf0bb03bbab5058ebcda894f3401358a52960e1e89800",
+  "payerAddresses": [
+    "BUNgM7Gh1XNaDkpX7Wmt2B7yxa9Stoa8Q9C6jNcccf7N",
+    "9gmqS3J2j2RRAb4SVEzFrhXETchJvi72zK3daAahSUet",
+    "4uapqV8UcUyEXu9tXuGMZ4vChyBds4CMCWj1xTDUKAF1",
+    "9Sf7CXZ22hDi4Q2hWBherBuqW79Zpqq51FUgJJXqn1jw"
+  ],
+  "epoch": {
+    "absoluteSlot": 462515267,
+    "blockHeight": 440539765,
+    "epoch": 1070,
+    "slotIndex": 275267,
+    "slotsInEpoch": 432000,
+    "transactionCount": 564153052015
+  },
+  "delivery": "JSON-RPC forwarding, maxRetries=0, skipPreflight=true; arrival at validator unobserved",
+  "budgetPath": "/Users/heymike/Projects/superteam-earn/inside-the-block/data/budget.jsonl"
+}

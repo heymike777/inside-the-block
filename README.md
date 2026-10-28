@@ -2,7 +2,14 @@
 
 Reproducible Solana mainnet transaction-ordering experiment for the [Superteam Ukraine bounty](https://superteam.fun/earn/listing/inside-the-block-how-solana-validators-order-transactions/).
 
-**Status: live pilot verified; mainnet measurement campaign in progress.** The default command never submits transactions. Synthetic/demo output is never evidence. Mainnet transactions cost SOL only with the explicit `run … --live` flag and four locally mounted keypairs.
+**Status: completed mainnet campaign, measured on 2026-10-28.** The default command never submits transactions. Synthetic/demo output is never evidence. Mainnet transactions cost SOL only with the explicit `run … --live` flag and four locally mounted keypairs.
+
+
+## Measured result
+
+The primary campaign sent **288 transactions across six validators and three exact version strings**, in 72 leader-window batches. All 288 finalized successfully; 280 landed on the selected leaders and eight were forwarded to another leader. A separate eight-transaction pilot is retained as an appendix. Total probe fees, including that pilot: **0.00158332 SOL**, versus the 0.05 SOL bounty budget. See [campaign accounting](results/campaign-summary.json).
+
+Every sampled identity has a verifiable same-block CU-price inversion in at least one lock mode. That demonstrates that the observed serialized order is not perfectly sorted by CU price. It does not identify an internal scheduler or refute a priority queue whose available transactions arrive at different times. There are only two repetitions per condition; confidence intervals and causal claims are withheld. Read the [full report](REPORT.md), [coverage](results/analysis/report.md) and [reference source review](docs/SOURCE-REVIEW.md).
 
 ## Run
 
@@ -20,7 +27,7 @@ One-command default with Docker Compose:
 docker compose run --rm --build experiment
 ```
 
-This writes the deterministic preregistered design to `data/plan.json`. Docker must be installed. The local machine has no Docker CLI; GitHub CI successfully verified container build, default dry-run and offline evidence replay on 2026-10-28.
+This writes the deterministic seeded design to `data/plan.json`. To verify the actual published measurements offline in one command, run `docker compose run --rm --build experiment reproduce-all /app/results`. Docker must be installed. The local machine has no Docker CLI; GitHub CI successfully verified container build, default dry-run and offline evidence replay on 2026-10-28.
 
 Put `RPC_URL` in `.env` (see `.env.example`). Never commit it. Discovery is read-only:
 

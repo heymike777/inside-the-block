@@ -1,0 +1,27 @@
+{
+  "sourceRun": "accounting",
+  "exportedAt": "2026-10-28T15:29:34.837Z",
+  "files": [
+    {
+      "file": "budget.jsonl.gz",
+      "originalBytes": 45226,
+      "storedBytes": 21647,
+      "sha256Original": "155128155d7d87012f2693d02d3fe1e21b0fbc16b4242ce6de5f0823aa1655fa",
+      "sha256Stored": "53a21b36e256bfd746cf9770ede5ddf4f11c936983741b5a4c158aecc4049083"
+    },
+    {
+      "file": "funding-check.json.gz",
+      "originalBytes": 474,
+      "storedBytes": 287,
+      "sha256Original": "4b619dc9b986fbd7460cd5352968a1298124064745fcaaf4561e22f0913b537d",
+      "sha256Stored": "697f8231ce1842341f0ce6d8ed4b057d25549a0c8038e7572fcdb1bbfd642e63"
+    },
+    {
+      "file": "preflight.json.gz",
+      "originalBytes": 8538,
+      "storedBytes": 629,
+      "sha256Original": "444bcc6d625d9240f929909c6e7e0bf13592f689bd28dc0817a244eab5bae804",
+      "sha256Stored": "185187d6ad44b5d5df5f2411d651874574582adecdbc8ec875cd85372119cd05"
+    }
+  ]
+}

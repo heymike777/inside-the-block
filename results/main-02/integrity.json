@@ -1,0 +1,153 @@
+{
+  "sourceRun": "e7faec4d-8e7e-4689-87cf-31efd4862e15",
+  "exportedAt": "2026-10-28T15:22:46.753Z",
+  "files": [
+    {
+      "file": "attempts.jsonl",
+      "originalBytes": 29513,
+      "storedBytes": 29513,
+      "sha256Original": "8f6a1b6992a120fd365c807a1b5785f7e29930356dc5042a2ed80e5b20ce412c",
+      "sha256Stored": "8f6a1b6992a120fd365c807a1b5785f7e29930356dc5042a2ed80e5b20ce412c"
+    },
+    {
+      "file": "block-462519197.json.gz",
+      "originalBytes": 2445907,
+      "storedBytes": 627811,
+      "sha256Original": "2cd2b0df35a0d05decd3d53148a099e3c32552877407c3623db6dd0d1a003e69",
+      "sha256Stored": "33992dcc607739f9bd60a00444f42c5025058630bf9c6442555cd3960fbb837a"
+    },
+    {
+      "file": "block-462519293.json.gz",
+      "originalBytes": 2511219,
+      "storedBytes": 606999,
+      "sha256Original": "4455a79f51f871794b4958c9bb40283a4779a0197068b43d62a9c0bea5c5b18e",
+      "sha256Stored": "ea0f54aab3486c008b4fadcdde35b6b7f53dd1ff8a882b59564757068717f189"
+    },
+    {
+      "file": "block-462519358.json.gz",
+      "originalBytes": 1854088,
+      "storedBytes": 477236,
+      "sha256Original": "709a599252a9725527e9794f7979d7d9b4491bc44abf36faa8377bf3e22eb4f7",
+      "sha256Stored": "b3a4624820c17a0ade2d496fb865d22b414f913a58994c9f26f23e03950561b0"
+    },
+    {
+      "file": "block-462519581.json.gz",
+      "originalBytes": 2136773,
+      "storedBytes": 486633,
+      "sha256Original": "becb9f9183fd4c2a44a9623b753aa5a1ba07805a09bec6887cd77493b994e872",
+      "sha256Stored": "29a707de4c4bcad9948ed5d16f072f817b12d33a33f15267f914b0df57eec803"
+    },
+    {
+      "file": "block-462519925.json.gz",
+      "originalBytes": 2388489,
+      "storedBytes": 568546,
+      "sha256Original": "2901bc79e656a88981acacb006e88a979b786c7da27806b14be44bb13e261d08",
+      "sha256Stored": "0df342545fcd12d9934cfb84a07d480a78a07c722aaa55312b836a8d8905f35d"
+    },
+    {
+      "file": "block-462520021.json.gz",
+      "originalBytes": 2228937,
+      "storedBytes": 507975,
+      "sha256Original": "f823efd9eb6f110163a8852e02096bd5d93391861b38635a95fe0f82d7520c7a",
+      "sha256Stored": "965629ee604ea983331d49229e7ac835a63c179aa7bf5513be82ff14714faaa9"
+    },
+    {
+      "file": "block-462520022.json.gz",
+      "originalBytes": 2556205,
+      "storedBytes": 580100,
+      "sha256Original": "477e146f42450a6f50e8c370556d086338c2d7f44ed50da901ce60a821ee3a80",
+      "sha256Stored": "756558bb829d9ba7968ba436afa673ab19732796397cd794f58dd751cf639863"
+    },
+    {
+      "file": "block-462520045.json.gz",
+      "originalBytes": 1792601,
+      "storedBytes": 416769,
+      "sha256Original": "7844967c79a87e2919bdafa36508c33a0b1bba48d4b8d4885cceb1bcb2dd571d",
+      "sha256Stored": "08395dc70b9db3bf775ddce2ab2f7157793f725ceeff7f2ede85e75252cef8aa"
+    },
+    {
+      "file": "block-462520257.json.gz",
+      "originalBytes": 2483734,
+      "storedBytes": 575840,
+      "sha256Original": "b715c0c068d5cd1a222f426f3c5b630d5dfccb83e95f4c484ce5490a0024c239",
+      "sha256Stored": "1e0fc646e6343372886dd8c4ae4a95b7a76deec37d0350454d8cd2d7f765824b"
+    },
+    {
+      "file": "block-462520277.json.gz",
+      "originalBytes": 2377439,
+      "storedBytes": 545305,
+      "sha256Original": "8613cf41e2a71dcdfca4b2ad9313cdbd83a92c0dee64b38e6a8e1890bbee265f",
+      "sha256Stored": "8f7d0de213421d9189a3a26569c76913169752c5c4f9f7dfaf73d586b1d0fd92"
+    },
+    {
+      "file": "block-462520278.json.gz",
+      "originalBytes": 2567042,
+      "storedBytes": 581040,
+      "sha256Original": "057febc22023ae087ddc8237c0f1b3d4d08500dc46e3c56a7f75feddc624c82f",
+      "sha256Stored": "715af1e556e0a5cd5b91ae0d263de36bbde596d90ada553860f35ae8b5ae6a40"
+    },
+    {
+      "file": "block-462521397.json.gz",
+      "originalBytes": 2634334,
+      "storedBytes": 549745,
+      "sha256Original": "cd1f620ec0bd3ea061fc8ea786d01d0005fec9719e3ddb1bc4ee7f02300a8c35",
+      "sha256Stored": "eecb924d8aaf36efecd1e399fc53489a70d52b90d7331dd96476531f6cfbc29a"
+    },
+    {
+      "file": "block-462521530.json.gz",
+      "originalBytes": 2170565,
+      "storedBytes": 503855,
+      "sha256Original": "9e5e863356a63d453877f49a6172ce515b313e1485bb482f080a84bdce9d7309",
+      "sha256Stored": "968d45be33cd67ec9d2994fa060d4e06ecabfb14ee212dd68d91ae0aa4887a8f"
+    },
+    {
+      "file": "block-462524322.json.gz",
+      "originalBytes": 2717211,
+      "storedBytes": 597536,
+      "sha256Original": "6a9ed135dbcc06d7acb44bfa2f40b2f200392ce41c6c398c7fe2109a22f56df3",
+      "sha256Stored": "aa6155b819dc4af848f32ad9d736efab07540ee17a907d389dfbbec803de4549"
+    },
+    {
+      "file": "block-context.json",
+      "originalBytes": 18908,
+      "storedBytes": 18908,
+      "sha256Original": "049ca4a2d8461b611ea8b46c98f6ba2137ef5cbbbcf3775ae6bdeb6a50cc7901",
+      "sha256Stored": "049ca4a2d8461b611ea8b46c98f6ba2137ef5cbbbcf3775ae6bdeb6a50cc7901"
+    },
+    {
+      "file": "collection-rpc.jsonl.gz",
+      "originalBytes": 81047815,
+      "storedBytes": 18985037,
+      "sha256Original": "fca855ac6f8de4c7d1fdbc1934f619bffd3d6bc8061c9e003d933206864a7f1d",
+      "sha256Stored": "aa6f0b8cac35cf06dc0e4da9af387f159767868291a0fad4a9f96a300531b9c0"
+    },
+    {
+      "file": "events.jsonl",
+      "originalBytes": 11914,
+      "storedBytes": 11914,
+      "sha256Original": "5133e567421dc94ace6a5d6eadad150dcf57277e36cf7b71712fff9cf0487d98",
+      "sha256Stored": "5133e567421dc94ace6a5d6eadad150dcf57277e36cf7b71712fff9cf0487d98"
+    },
+    {
+      "file": "manifest.json",
+      "originalBytes": 1764,
+      "storedBytes": 1764,
+      "sha256Original": "7af7f5c84642d98750ca8ecc0e0fe63b7fc3dcaeeb06ca08c8b1678b869d3dbe",
+      "sha256Stored": "7af7f5c84642d98750ca8ecc0e0fe63b7fc3dcaeeb06ca08c8b1678b869d3dbe"
+    },
+    {
+      "file": "observations.jsonl",
+      "originalBytes": 39631,
+      "storedBytes": 39631,
+      "sha256Original": "d35b32e0ab4eafb68dec1a65d10ce19aeec08ff275c0f78a7c2ebf56596bdf19",
+      "sha256Stored": "d35b32e0ab4eafb68dec1a65d10ce19aeec08ff275c0f78a7c2ebf56596bdf19"
+    },
+    {
+      "file": "rpc.jsonl.gz",
+      "originalBytes": 22910492,
+      "storedBytes": 4638955,
+      "sha256Original": "26ebe6225ea8c28e0116ddb29df61017dbf03e4e6ffdd9b039fca2060a198ca8",
+      "sha256Stored": "c8012f615fe8b102b300d432c64db147082122953ef96153c4b376e548600ccc"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "sourceRun": "discovery",
+  "exportedAt": "2026-10-28T15:29:34.834Z",
+  "files": [
+    {
+      "file": "candidates.json.gz",
+      "originalBytes": 3233106,
+      "storedBytes": 471516,
+      "sha256Original": "5e718b9fb5115838a168b86686a99afbf6e24d165d8f58482988392d6c6d36f7",
+      "sha256Stored": "b0ac98bae4767891719011e5953ba979c5c37427a2b27d0ea184b37d6c236ec3"
+    },
+    {
+      "file": "rpc.jsonl.gz",
+      "originalBytes": 4746064,
+      "storedBytes": 1437735,
+      "sha256Original": "a35e981ac911b9432bc7eab0fff5a4ba1fe36ab40a26ba66b63bfbd90eeaf13b",
+      "sha256Stored": "d3aafc104a537661e69713363eb93da1469e2826b657a924bfc8fb8c8cd0efa2"
+    }
+  ]
+}

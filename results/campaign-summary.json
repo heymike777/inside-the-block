@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-10-28T15:32:35.769Z",
+  "provenance": {
+    "providerFamily": "helius-rpc.com",
+    "nodeVersion": "v24.12.0",
+    "platform": "darwin",
+    "transport": "Node fetch HTTPS JSON-RPC; no direct TPU, bundles or tips",
+    "senderLocation": "Physical location and route unmeasured; local desktop configured Europe/Warsaw",
+    "endpointCredentials": "withheld"
+  },
+  "main": {
+    "planned": 288,
+    "firstSlot": 462516198,
+    "lastSlot": 462527146,
+    "firstBlockTimeUTC": "2026-10-28T14:50:02.000Z",
+    "lastBlockTimeUTC": "2026-10-28T15:28:58.000Z",
+    "attempted": 288,
+    "finalized": 288,
+    "successfulOnTarget": 280,
+    "failed": 0,
+    "offTarget": 8,
+    "unresolved": 0,
+    "byValidator": [
+      {
+        "identity": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+        "version": "4.3.2",
+        "attempted": 48,
+        "successfulOnTarget": 44,
+        "finalized": 48,
+        "plannedBatches": 12
+      },
+      {
+        "identity": "9jxgosAfHgHzwnxsHw4RAZYaLVokMbnYtmiZBreynGFP",
+        "version": "26.10.5",
+        "attempted": 48,
+        "successfulOnTarget": 48,
+        "finalized": 48,
+        "plannedBatches": 12
+      },
+      {
+        "identity": "JUPiTERrZqgf1jUyR7dSkhMx4Kn2qJyekWsg3LT1h4b",
+        "version": "26.10.4",
+        "attempted": 48,
+        "successfulOnTarget": 48,
+        "finalized": 48,
+        "plannedBatches": 12
+      },
+      {
+        "identity": "9eGrDohdNTAo61DRHyfMuqKWXqYnA3i254Wiszxe8FoY",
+        "version": "26.10.4",
+        "attempted": 48,
+        "successfulOnTarget": 48,
+        "finalized": 48,
+        "plannedBatches": 12
+      },
+      {
+        "identity": "HEL1USMZKAL2odpNBj2oCjffnFGaYwmbGmyewGv1e2TU",
+        "version": "4.3.2",
+        "attempted": 48,
+        "successfulOnTarget": 44,
+        "finalized": 48,
+        "plannedBatches": 12
+      },
+      {
+        "identity": "DNVZMSqeRH18Xa4MCTrb1MndNf3Npg4MEwqswo23eWkf",
+        "version": "26.10.5",
+        "attempted": 48,
+        "successfulOnTarget": 48,
+        "finalized": 48,
+        "plannedBatches": 12
+      }
+    ],
+    "finalizedFeesLamports": 1538880
+  },
+  "pilot": {
+    "attempted": 8,
+    "finalized": 8,
+    "finalizedFeesLamports": 44440
+  },
+  "accounting": {
+    "reservedLamports": 1583320,
+    "finalizedProbeFeesLamports": 1583320,
+    "enforcedCapLamports": 49000000,
+    "bountyBudgetLamports": 50000000,
+    "scope": "Own probe transaction fees only; external wallet funding/withdrawal fees excluded"
+  }
+}

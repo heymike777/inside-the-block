@@ -6,6 +6,7 @@ import { createKeyPairSignerFromBytes, generateKeyPairSigner } from '@solana/kit
 import { rpcClient } from './rpc.mjs';
 import { Budget, MAINNET_GENESIS, plan, digest } from './core.mjs';
 import { buildProbe } from './transactions.mjs';
+import { provenance } from './provenance.mjs';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 export async function run(args, out) {
   const live = args.includes('--live');
@@ -58,7 +59,7 @@ export async function run(args, out) {
       }
     }
     const queues = new Map(config.targets.map(t => [t.identity, batches.filter(b=>!completed.has(`${t.identity}:${b.id}`))]));
-    const manifest = {runId, live, startedAt:new Date().toISOString(), config, designHash:digest(batches), payerAddresses:signers.map(s=>s.address), epoch, delivery:`JSON-RPC ${config.sendMode??'sequential'} forwarding, maxRetries=0, skipPreflight=true; arrival at validator unobserved`, budgetPath:resolve(out,'budget.jsonl')};
+    const manifest = {provenance:provenance(process.env.RPC_URL || 'https://api.mainnet-beta.solana.com'),runId, live, startedAt:new Date().toISOString(), config, designHash:digest(batches), payerAddresses:signers.map(s=>s.address), epoch, delivery:`JSON-RPC ${config.sendMode??'sequential'} forwarding, maxRetries=0, skipPreflight=true; arrival at validator unobserved`, budgetPath:resolve(out,'budget.jsonl')};
     writeFileSync(`${dir}/manifest.json`, JSON.stringify(manifest,null,2));
     if (!windows.length) throw Error('No future windows in current epoch; rediscover later');
     const started = Date.now(), maxWait = config.maxWaitSeconds ?? 600;
