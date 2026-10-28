@@ -14,3 +14,5 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run demo
+      - run: docker compose run --rm --build experiment
+      - run: docker compose run --rm experiment reproduce /app/results/main-01
